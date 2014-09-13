@@ -3,6 +3,7 @@
 
 > [Download PDF](gh-resume.pdf)
 > [gunnar@hellekson.com](gunnar@hellekson.com)
+> [http://gunnar.hellekson.com/about](http://gunnar.hellekson.com/about)
 > +1 202 507 9027
 
 ---
