@@ -28,18 +28,18 @@ A respected technology executive and lifelong advocate for open source, free cul
 
 ### Activities and Awards
 
-1. FCW Fed 100 Award, 2010
-1. FedScoop 50 Award, 2012
-1. [Government Technology Opportunity in the 21st Century](http://www.techamericafoundation.org/gto21), Commissioner
-1. [SIIA, Software Division](http://www.siia.net/), Board Member
-1. [SIIA, Public Sector Innovation Group](http://www.siia.net/index.php?option=com_content&view=article&id=967:siia-public-sector-innovation-group-where-innovation-meets-government&catid=344:public-sector-innovation-group&Itemid=1013), Board Member
-1. [Open Source Election Technology Foundation](http://www.osetfoundation.org/), Board Member
-1. [California Civic Innovation Project](http://ccip.newamerica.net/), Advisor
-1. [Open Technology Fund](https://www.opentechfund.org/), Advisor
-1. [X-Lab](http://newamerica.org/x-lab/about-x-lab/), Advisor
-1. [Open Source for America](http://opensourceforamerica.org/), Founder
-1. [Military Open Source Working Group](http://mil-oss.org/), Founder
-1. [opensource.com](http://opensource.com/government), Editor, Government Channel
+FCW Fed 100 Award, 2010
+FedScoop 50 Award, 2012
+[Government Technology Opportunity in the 21st Century](http://www.techamericafoundation.org/gto21), Commissioner
+[SIIA, Software Division](http://www.siia.net/), Board Member
+[SIIA, Public Sector Innovation Group](http://www.siia.net/index.php?option=com_content&view=article&id=967:siia-public-sector-innovation-group-where-innovation-meets-government&catid=344:public-sector-innovation-group&Itemid=1013), Board Member
+[Open Source Election Technology Foundation](http://www.osetfoundation.org/), Board Member
+[California Civic Innovation Project](http://ccip.newamerica.net/), Advisor
+[Open Technology Fund](https://www.opentechfund.org/), Advisor
+[X-Lab](http://newamerica.org/x-lab/about-x-lab/), Advisor
+[Open Source for America](http://opensourceforamerica.org/), Founder
+[Military Open Source Working Group](http://mil-oss.org/), Founder
+[opensource.com](http://opensource.com/government), Editor, Government Channel
 
 ---
 
