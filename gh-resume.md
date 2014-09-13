@@ -1,7 +1,7 @@
 # Gunnar Hellekson
 ## Strategy and Advocacy
 
-> [Download PDF](resume.pdf)
+> [Download PDF](gh-resume.pdf)
 > [gunnar@hellekson.com](gunnar@hellekson.com)
 > +1 202 507 9027
 
