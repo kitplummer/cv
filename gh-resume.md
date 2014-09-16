@@ -124,5 +124,5 @@ FedScoop 50 Award, 2012
 [NC Datapalooza](http://ncdatapalooza.com/), May 2013
 "[US Government vs. Open Source: A History and Lessons Learned](http://www.oscon.com/oscon2012/public/schedule/detail/24221)", OSCON 2012, 19 July 2012
 "[tech@State](http://tech.state.gov/profiles/blogs/open-source-speakers)", US State Department, 7 February 2011
-"[Applying Open Source Princples to Federal Government](http://www.oscon.com/oscon2009/public/schedule/speaker/62735)", OSCON 2009, 9 July 2009
+"[Applying Open Source Principles to Federal Government](http://www.oscon.com/oscon2009/public/schedule/speaker/62735)", OSCON 2009, 9 July 2009
 
