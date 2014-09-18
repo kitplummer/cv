@@ -41,12 +41,7 @@ FedScoop 50 Award, 2012
 [Open Source for America](http://opensourceforamerica.org/), Founder
 [Military Open Source Working Group](http://mil-oss.org/), Founder
 [opensource.com](http://opensource.com/government), Editor, Government Channel
-
----
-
-### Projects
-
-"[Open Source in the US Government](http://gov-oss.org/)", an interactive timeline of every major event and software release in US Government history.
+"[History of Open Source in the US Government](http://gov-oss.org/)", an interactive timeline of every major event and software release in US Government history.
 "[Dave and Gunnar Show](http://dgshow.org/)" a weekly podcast on open source, privacy, and government.
 
 ---
@@ -54,26 +49,28 @@ FedScoop 50 Award, 2012
 ### Experience
 
 **Red Hat**: *Chief Strategist, US Public Sector* __2010-2014__
-  Set direction for sales and product teams in the US Federal, state, and local markets for a $1.5 billion open source technology business, contributing to an average of 20% growth YoY. Assisted account executives with their account planning, advising them on industry trends and their customer's needs. Also responsible for the company's relationship with CIOs, CTOs, and senior IT staff. Regularly briefed them on current technology trends and Red Hat's future plans.
-  Created and operated the Advocate Program, working with 13 product lines across 5 business units to ensure they complied with government rules and standards. This program connected senior technical sales staff and product management directly, which rationalized and simplified a chaotic process for data calls, issue escalation, and feature requests.
-  Founded Open Source for America, a national advocacy network promoting the use of open source in the US government. The group claims over 60 corporate members, and remains a resource for open source companies seeking advice of government regulations, as well as government agencies eager to adopt more open source projects.
-  Established, with other senior staff, a Global Government team that syndicated the success of the US group to other countries with training, shared resources, and common marketing material.
+  Set direction for sales and product teams in the US Federal, state, and local markets for a $1.5 billion open source technology business, contributing to an average 20% growth each year.
+  Responsible for the company's relationship with CIOs and CTOs at government agencies and integrators. Regularly briefed them on current technology trends and Red Hat's future plans.
+  Served as "trusted advisor" to 13 product lines across 5 business units, meeting weekly with senior engineering and product management staff. Created the Advocate Program, which rationalized and simplified a chaotic process for data calls, issue escalation, and feature requests between field staff and product managers. Advised the company on government certification and compliance efforts, including five Common Criteria certifications.
+  A frequent contributor to industry panels, public conferences, editorials, and other media. Participated heavily in the development and delivery of marketing and sales material. Routinely asked to develop and review presentations, whitepapers, and marketing copy for the global field staff.
+  Individually coached a team of over 100 account executives on industry trends and their particular customer's needs.
+  Founded Open Source for America, a national advocacy network promoting the use of open source in the US government. The group claims over 60 corporate members, and acts as a resource for open source companies seeking advice on government regulations, as well as government agencies eager to adopt more open source projects.
+  Established, with other senior staff, a Global Government team that syndicated the success of Red Hat's US group to other countries with training, shared resources, and common marketing material.
 
 **Red Hat**: *Lead Architect, US Public Sector* __2006-2010__
-  Managed a team of 12 systems architects delivering 20% growth for 16 consecutive quarters.
-  Worked closely with product and engineering teams to make sure they met the governments' needs.
-  Coordinated sales, marketing, and engineering staff to create formal responses to government procurements.
+  Managed a team of 12 systems architects delivering 20% growth and met or exceeded sales targets for 16 consecutive quarters.
+  Participated in product planning and design, representing the needs of the US government.
+  Coordinated the company's formal responses to government procurements.
   Represented Red Hat with executive-level customers and in the media.
 
 **Core Services**: *Director, Research and Development* __2005-2006__
   Responsible for all internal development projects at an Oracle Applications service provider. Led a team of developers, administrators, and engineers across many departments.
 
 **Jodie Lane Project**: *Founder and Executive Director* __2004-2005__
-  Managed a coalition of community groups to respond to safety problems in New York’s electrical system.
+  Managed a coalition of community groups to respond to safety problems in New York’s electrical system. The group successfully negotiated signifcant reforms at the city and state level.
 
 **Five Points Consulting**: *Managing Partner* __2003-2005__
-  Business and technical consultant to small- and medium-sized
-  not-for-profit organizations.
+  A boutique business and technical consultancy, tailored to small- and medium-sized not-for-profit organizations.
 
 **Company of the Far Countries**: *Vice President, Technology* __1999-2002__
   Managed development and operations for an online giftware wholesaler.
@@ -118,6 +115,7 @@ FedScoop 50 Award, 2012
 
 ### Talks
 
+"[US Government vs. Open Source](http://s2lq.com/programme)", Salon du Logiciel Libre du Québec, 17 September 2014
 "[We Can Do More When We Work Together](http://www.slideshare.net/FedScoop/lcogit-fedscoop201408)", Lowering Cost of Government IT Summit 2014, 25 August 2014
 "[Bombers in the Data Center: Lessons from World War II](http://www.gartner.com/technology/summits/na/it-operations/agenda/day-4.jsp#)", Gartner IT Infrastructure & Operations Management Summit, 10 June 2014
 "[The Future Has Never Been So Open](http://www.alamoafcea.org/page/12798_88/)", Alamo AFCEA, 19 November 2013
