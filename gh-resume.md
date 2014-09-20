@@ -10,7 +10,7 @@
 
 ### Profile
 
-A technology executive with a fondness for open source development, collaborative innovation, and hard problems.
+A technology executive focused on open source development, collaborative innovation, and hard problems.
 
 ---
 
