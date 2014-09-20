@@ -10,19 +10,19 @@
 
 ### Profile
 
-A respected technology executive and lifelong advocate for open source, free culture, and collaborative innovation. 
+A technology executive with a fondness for open source development, collaborative innovation, and hard problems.
 
 ---
 
 ### Skills
 
-* **Collaborative Development**
+* **Convener**
   Proven ability to build and maintain working communities across disparate skills, talents, and interests. 
   
-* **Advocacy**
+* **Advocate**
   Speaking and writing to turn complicated issues in technology and culture into meaningful work.
 
-* **Government**
+* **Bureaucrat**
   A nationally-recognized expert in government technology, security, and procurement needs.
   
 ---
@@ -49,34 +49,42 @@ FedScoop 50 Award, 2012
 ### Experience
 
 **Red Hat**: *Chief Strategist, US Public Sector* __2010-2014__
-  Set direction for sales and product teams in the US Federal, state, and local markets for a $1.5 billion open source technology business, contributing to an average 20% growth each year.
-  Responsible for the company's relationship with CIOs and CTOs at government agencies and integrators. Regularly briefed them on current technology trends and Red Hat's future plans.
-  Served as "trusted advisor" to 13 product lines across 5 business units, meeting weekly with senior engineering and product management staff. Created the Advocate Program, which rationalized and simplified a chaotic process for data calls, issue escalation, and feature requests between field staff and product managers. Advised the company on government certification and compliance efforts, including five Common Criteria certifications.
-  A frequent contributor to industry panels, public conferences, editorials, and other media. Participated heavily in the development and delivery of marketing and sales material. Routinely asked to develop and review presentations, whitepapers, and marketing copy for the global field staff.
-  Individually coached a team of over 100 account executives on industry trends and their particular customer's needs.
-  Founded Open Source for America, a national advocacy network promoting the use of open source in the US government. The group claims over 60 corporate members, and acts as a resource for open source companies seeking advice on government regulations, as well as government agencies eager to adopt more open source projects.
-  Established, with other senior staff, a Global Government team that syndicated the success of Red Hat's US group to other countries with training, shared resources, and common marketing material.
+  * Set direction for sales and product teams in the US Federal, state, and local markets for a $1.5 billion open source technology business, contributing to an average 20% growth each year.
+  * Responsible for the company's relationship with CIOs and CTOs at government agencies and integrators, keeping them abreast of industry trends and Red Hat's product and research agenda.
+  * Served as "trusted advisor" to 13 product lines across 5 business units, meeting weekly with senior engineering and product management staff.
+  * Created the Advocate Program, which rationalized and simplified a chaotic process for data calls, issue escalation, and feature requests between field staff and product managers. 
+  * Advised the company on government certification and compliance efforts, including five Common Criteria certifications.
+  * Frequent contributor to industry panels, public conferences, editorials, and other media. Guided the development of all marketing material. Created and reviewed presentations, whitepapers, and marketing copy for the global field staff.
+  * Individually coached a team of over 100 account executives on industry trends and their particular customer's needs.
+  * Founded Open Source for America, a national advocacy network promoting the use of open source in the US government. The group claims over 60 corporate members, and acts as a resource for open source companies seeking advice on government regulations, as well as government agencies eager to adopt more open source projects.
+  * Established, with other senior staff, a Global Government team that syndicated the success of Red Hat's US group to other countries with training, shared resources, and common marketing material.
 
 **Red Hat**: *Lead Architect, US Public Sector* __2006-2010__
-  Managed a team of 12 systems architects delivering 20% growth and met or exceeded sales targets for 16 consecutive quarters.
-  Participated in product planning and design, representing the needs of the US government.
-  Coordinated the company's formal responses to government procurements.
-  Represented Red Hat with executive-level customers and in the media.
+  * Managed a team of 12 systems architects delivering 20% growth and met or exceeded sales targets for 16 consecutive quarters.
+  * Developed company-wide on-boarding procedures for all new architects.
+  * Participated in product planning and design, representing the needs of the US government.
+  * Served as coordinator and final editor of the company's formal responses to government procurements.
+  * Represented Red Hat with executive-level customers and in the media.
 
 **Core Services**: *Director, Research and Development* __2005-2006__
-  Responsible for all internal development projects at an Oracle Applications service provider. Led a team of developers, administrators, and engineers across many departments.
+  * Responsible for all internal development projects at an Oracle Applications service provider. 
+  * Developed an in-house monitoring and automation system, overseeing hundreds of deployments for dozens of clients, providing alerting, audit logs, and SLA compliance metrics for staff and customers.
+  * Led a team of developers, administrators, and engineers across many departments.
 
 **Jodie Lane Project**: *Founder and Executive Director* __2004-2005__
-  Managed a coalition of community groups to respond to safety problems in New York’s electrical system. The group successfully negotiated signifcant reforms at the city and state level.
+  * Managed a coalition of community groups to respond to safety problems in New York’s electrical system. The group successfully negotiated signifcant reforms at the New York City Council and the New York Public Utility Commission.
 
 **Five Points Consulting**: *Managing Partner* __2003-2005__
-  A boutique business and technical consultancy, tailored to small- and medium-sized not-for-profit organizations.
+  * A boutique business and technical consultancy, tailored to small- and medium-sized not-for-profit organizations.
+  * Managed a portfolio of over a dozen clients, including the HERE Arts Center, Support Center for Nonprofit Management, and the Henson Foundation.
 
 **Company of the Far Countries**: *Vice President, Technology* __1999-2002__
-  Managed development and operations for an online giftware wholesaler.
+  * Managed development and IT operations for an online giftware wholesaler.
+  * Supervised the implementation of an Oracle Applications ERP
+  * Architect of a fully-automated international customs and shipping platform, allowing manufacturers in remote locations to easily fulfill orders for US giftware retailers.
 
 **Trilux**: *Senior Developer* __1996-1999__
-  Developed, produced, and maintained web sites for diverse set of clients.
+  * Developed, produced, and maintained web sites for diverse set of clients.
 
 ---
 
