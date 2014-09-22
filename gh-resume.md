@@ -95,6 +95,7 @@ FedScoop 50 Award, 2012
 
 ### Media
 
+"[Red Hat Cloud for Government](http://fedscoop.com/red-hat-cloud-for-government/)", FedScoop, 22 September 2014
 "[Red Hat’s Gunnar Hellekson talks open source](http://fedscoop.com/red-hats-gunnar-hellekson-talks-open-source/)", FedScoop, 10 September 2014
 "[GSA’s open source first approach gives more software options, better savings](http://fedscoop.com/gsas-open-source-approach/)", FedScoop, 6 August 2014
 "['Provider Sprawl' Complicates Government Move to Cloud](http://www.cio.com/article/2459518/government-use-of-it/provider-sprawl-complicates-government-move-to-cloud.html)", CIO Magazine, 4 August 2014
