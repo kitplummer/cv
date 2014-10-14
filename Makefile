@@ -1,5 +1,5 @@
-BASENAME=gh-resume
-TEMPLATE=-t gh-template.html
+BASENAME=kp-resume
+TEMPLATE=-t kp-template.html
 
 all: pdf html
 
@@ -9,6 +9,9 @@ html:
 pdf:
 	md2resume $(TEMPLATE) --pdf $(BASENAME).md
 
+pages:
+	cp $(BASENAME).html index.html
+
 clean:
-	rm gh-resume.html
-	rm gh-resume.pdf
+	rm kp-resume.html
+	rm kp-resume.pdf
