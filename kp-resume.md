@@ -40,6 +40,10 @@ A technology architect and engineer focused on open source development, software
 ### Experience
 
 **AirGap / RadiantBlue Technologies**: *Chief Engineer* __2012-Present__
+Consulting organizations on the "modern software engineering" enterprise
+  * Communicating the need for enterprises to accommodate a flexible culture, to accommodate technology change, preventing debt and allowing for the right tool to be applied to the job at hand
+  * Analyzing existing processes and documenting infrastructure and automation opportunities
+  * Training on infrastructure-as-code tools (ie. Puppet, Chef) and cloud and container tools (Openstack and Docker)
 
 Developing open source alternative solutions for common defense and intelligence systems, to enable rapid and emergent innovation opportunities
   * Working with federal agencies on open source acquisition, and supply chain processes
