@@ -11,7 +11,7 @@
 
 ### Profile
 
-A technology architect and engineer focused on open source development, software delivery operations, and emergent innovation culture.
+A technology architect and engineer focused on distributed computing, open source development, software delivery operations, and emergent innovation culture.
 
 ---
 
@@ -45,19 +45,22 @@ Consulting organizations on the "modern software engineering" enterprise
   * Analyzing existing processes and documenting infrastructure and automation opportunities
   * Training on infrastructure-as-code tools (ie. Puppet, Chef) and cloud and container tools (Openstack and Docker)
 
-Developing open source alternative solutions for common defense and intelligence systems, to enable rapid and emergent innovation opportunities
-  * Working with federal agencies on open source acquisition, and supply chain processes
-  * Consulting on continuous integration and continuous delivery practices and tools
-  * Supporting open source operations, serving as a board member at The Codice Foundation
+Developing open source alternative solutions for defense and intelligence systems, to enable rapid and emergent innovation opportunities
+  * Utilizing public and private cloud technologies (e.g. Amazon Web Services(AWS): EC2, S3/Glacier, Route53, RDS, etc.; Heroku PaaS; OpenShift) as well as emerging technologies such as NoSQL, map-reduce, and dynamic software frameworks
+  * Consulting on continuous integration, continuous delivery and infrastucture-as-code practices
+  * Supporting open source operations, serving as a board member at [The Codice Foundation](http://www.codice.org)
+  * Working with the [Distributed Data Framework](https://tools.codice.org/wiki/display/DDF/DDF+Home) project, providing Puppet and AWS support to support dynamic provision and auto-configuration of large-scale deployments
 
 Managing development and operation of a workflow automation engine for delivery of software components
-  * Architected and implemented private cloud infrastructure based on Openstack, Puppet and Docker
-  * Designed a workflow engine for distributed task operations using Mongo, Grails, and Activiti
+  * Architected and implemented private cloud infrastructure based on Openstack, Puppet and Docker, and augmented by AWS compute and storage resources
+  * Designed a workflow engine for distributed task operations using Mongo, Grails, PostgreSQL, and Activiti
   * Developed Ruby microservices connecting external data sources (e.g. NIST vulnerability database, VirusTotal, fossology)
   * Worked with agencies to capture security process/audit, transport, and component manifesting requirements
+  * Integrating Amazon Web Services for elastic test agents, and disaster recovery flows for system images and software artifacts
 
 **MaestroDev**: *VP, Product Engineering* __2011-2012__
 Led the design and development of a DevOps tool suite to support emerging enterprise markets with software development-through-operations workflow automation
+  * Managed a globally distributed staff of software engineers, designers, technical writers, and administrators
   * Communicated with executive stakeholders regarding strategy, execution and operational needs
   * Worked with customers and test sites to optimize the delivery, monitoring and operation of system components
   * Built a Ruote-based workflow engine that integrated best-of-breed tools in the SCM, CI, deployment, provisioning and configuration management arena
