@@ -119,7 +119,7 @@ Master of Software Engineering
 
 **University of Maryland**, Kadena AB, Okinawa,
 October 1999
-Bachelor of Science in Computer Systems
+Bachelor of Science in Computer Studies
 
 **University of Arkansas**, Camp Foster, Okinawa,
 September 1999
