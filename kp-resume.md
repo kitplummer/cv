@@ -39,11 +39,13 @@ A technology architect and engineer focused on distributed computing, open sourc
 
 ### Experience
 
-**AirGap / RadiantBlue Technologies**: *Chief Engineer* __2012-Present__
+**AirGap / RadiantBlue Technologies**: *Chief Engineer/Architect* __2012-Present__
 Consulting organizations on the "modern software engineering" enterprise
   * Communicating the need for enterprises to accommodate a flexible culture, to accommodate technology change, preventing debt and allowing for the right tool to be applied to the job at hand
   * Analyzing existing processes and documenting infrastructure and automation opportunities
-  * Training on infrastructure-as-code tools (ie. Puppet, Chef) and cloud and container tools (Openstack and Docker)
+  * Training on infrastructure-as-code tools (ie. Puppet, Salt) and cloud and container tools (Openstack and Docker)
+  * Design and architecture for 'cloud-based' applications, focusing on distribution and scalability
+  * Supporting continuous delivery and deployment pipelines, with a focus on supply chain management
 
 Developing open source alternative solutions for defense and intelligence systems, to enable rapid and emergent innovation opportunities
   * Utilizing public and private cloud technologies (e.g. Amazon Web Services(AWS): EC2, S3/Glacier, Route53, RDS, etc.; Heroku PaaS; OpenShift) as well as emerging technologies such as NoSQL, map-reduce, and dynamic software frameworks
@@ -147,3 +149,4 @@ Completed coursework covering VxWorks 5.4 and Tornado 2.0
 "[Github](http://github.io/kitplummer)", Source code
 "[Bitbucket](http://bitbucket.com/kitplummer)", Source code
 "[kitplummer.github.io](http://kitplummer.github.io)", Blog
+"[The Modern Software Engineering Enterprise](http://kitplummer.github.io/modsofengent/)", Paper
