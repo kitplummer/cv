@@ -154,13 +154,7 @@ Served as a Co-Chair of the Communications Technology Interest Group and Softwar
 ### Education
 **University of Maryland**, Adelphi, Maryland
 December 2008
-
-
-   40
 Master of Software Engineering
-
-
- 20 # DISABLE_LS_COLORS="true"
 
 **University of Maryland**, Kadena AB, Okinawa,
 October 1999
