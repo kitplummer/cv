@@ -1,13 +1,12 @@
 BASENAME=kp-resume
-TEMPLATE=-t kp-template.html
+TEMPLATE=readable
 
 all: pdf html
 
 html:
-	md2resume $(TEMPLATE) $(BASENAME).md
-
+	docker run -v ${PWD}:/resume there4/markdown-resume md2resume html --template $(TEMPLATE) $(BASENAME).md .
 pdf:
-	md2resume $(TEMPLATE) --pdf $(BASENAME).md
+	docker run -v ${PWD}:/resume there4/markdown-resume md2resume pdf --template $(TEMPLATE) $(BASENAME).md .
 
 pages:
 	cp $(BASENAME).html index.html
