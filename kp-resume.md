@@ -13,28 +13,38 @@
 
 ### Profile
 
-A technology architect and engineer focused on distributed computing, open source development, software delivery operations, and emergent innovation culture. Current holder of TS-SCI clearance.
+A technology architect and software engineer focused on distributed computing, open source development, software delivery operations, and emergent innovation culture. Current holder of TS-SCI clearance.
 
 ---
 
 ### Skills {#skills}
 
 * Problem Solver
-  : Analyzing hard problems and providing quick and maintainable solutions that allow organizations to be ready for market opportunities.
+  : Analyzing difficult problems and providing quick and maintainable solutions that allow organizations to be ready for market opportunities.
 
 * Change Agent
-  : In tune with start-up and enterprise practices, excelling at evolving engineering practices towards optimum delivery requirements.
+  : In tune with start-up and enterprise practices, excelling at evolving engineering methodologies towards optimum delivery requirements.
 
-* Service
-  : Communicating needs between customers, engineers and operators, helping both to focus on their respective tasks - effectively and efficiently.
+* Service Focus
+  : Communicating and managing needs between customers, engineers and operators, helping all to focus on their respective tasks - effectively and efficiently.
 
 ---
 
 ### Experience {#experience}
 
+Georgia Tech Research Institute (GTRI)
+: *Principal Research Engineer*
+  __2017-present__
+
+Providing modern software engineering leadership to GTRI's portfolio of sponsors and clients, focusing on the continuous delivery of high quality and secure products and services.
+
+* Chief Engineer for GTRI's design and development of Delta Flight Product's new In-Flight Entertainment system now flying on Airbus A330-900 aircraft, and soon coming to the entire fleet. Managed teams of embedded, mobile, system and test engineers across multiple organizations.
+* Software engineering evangelist providing consulting internally and externally - covering software factory, Agile, as well as DevSecOps culture and practices. Established an organizational improvement function (DevUP) to promote better knowledge transfer, emergent innovation, and thought leadership.
+* Business developer working with current and prospective sponsors, supporting white paper development, customer engagement and feedback, as well as speaking at various conferences and meetups to facilitate the modern software engineering (software factories and DevSecOps) dialog.
+
 Ion Channel
 : *Founder/CTO*
-  __2015-__
+  __2015-2017__
 
 Business development and award of multiple $1M+ contracts with various intelligence community agencies, addressing software supply-chain requirements and source-code cybersecurity.
 
@@ -54,16 +64,16 @@ AirGap / RadiantBlue technologies
 : *Chief Engineer*
   __2012-2015__
 
-Consulting organizations on the "modern software engineering" enterprise
+Consulted organizations on the "modern software engineering" enterprise
 
  * Communicating the need for enterprises to accommodate a flexible culture, to accommodate technology change, preventing debt and allowing for the right tool to be applied to the job at hand
  * Analyzing existing processes and documenting infrastructure and automation opportunities
  * Training on infrastructure-as-code tools (ie. Puppet, Chef) and cloud and container tools (Openstack and Docker)
 
-Developing open source alternative solutions for defense and intelligence systems, to enable rapid and emergent innovation opportunities
+Developed open source alternative solutions for defense and intelligence systems, to enable rapid and emergent innovation opportunities
 
  * Utilizing public and private cloud technologies (e.g. Amazon Web Services(AWS): EC2, S3/Glacier, Route53, RDS, etc.; Heroku PaaS; OpenShift) as well as emerging technologies such as NoSQL, map-reduce, and dynamic software frameworks
- * Consulting on continuous integration, continuous delivery and infrastucture-as-code practices
+ * Consulting on continuous integration, continuous delivery (CI/CD) and infrastucture-as-code (IaC) practices
  * Supporting open source operations, serving as a board member at [The Codice Foundation](http://www.codice.org)
  * Working with the [Distributed Data Framework](https://tools.codice.org/wiki/display/DDF/DDF+Home) project, providing Puppet and AWS support to support dynamic provision and auto-configuration of large-scale deployments
 
@@ -180,11 +190,7 @@ Completed coursework covering VxWorks 5.4 and Tornado 2.0
 
 ### Activities
 
-[The Codice Foundation](http://www.codice.org), Founder and Board Member
-
-[Open Tucson](http://www.opentucson.org), Founder
-
-[OVMTB High School Mountain Bike Team](http://www.ovmtb.org), Founder and Team Director
+[OVMTB High School Mountain Bike Team](http://www.ovmtb.org), Founder and Board Member
 
 [National Interscholastic Cycling Association](http://nationalmtb.org), Level I Certified Coach
 
