@@ -13,7 +13,7 @@
 
 ### Profile
 
-A technology architect and software engineer focused on distributed computing, open source development, software delivery operations, and emergent innovation culture. Current holder of TS-SCI clearance.
+A technology architect, software engineer and advisor focused on distributed computing, open source development, software delivery (supply-chain) operations, and emergent innovation culture. Current holder of TS-SCI clearance.
 
 ---
 
@@ -38,7 +38,8 @@ Georgia Tech Research Institute (GTRI)
 
 Providing modern software engineering leadership to GTRI's portfolio of sponsors and clients, focusing on the continuous delivery of high quality and secure products and services.
 
-* Chief Engineer for the Air National Guard/Air Force Reserve Test Center's Corsair Ranch software factory, and Platform One liason. Provide support in system development for a wide range of platforms to include: F-16, A-10, HH-60 as well as cyber and ground-based systems.
+* Chief Engineer for the Air National Guard/Air Force Reserve Test Center's Corsair Ranch software factory, and Platform One liason. Provide DevSecOps support in system development for a wide range of platforms to include: F-16, A-10, HH-60 as well as cyber and ground-based systems.
+* Researcher focused on software supply-chain risk and vulnerability assesment, targeting Open Source languages and their library ecosystems. Developed analysis tooling (https://lowendinsight.dev / https://github.com/gtri/lowendinsight) for large-scale analysis of library repositories for inherent developer risk.
 * Chief Engineer for GTRI's design and development of Delta Flight Product's new In-Flight Entertainment system now flying on Airbus A330-900 aircraft, and soon coming to the entire fleet. Managed teams of embedded, mobile, system and test engineers across multiple organizations.
 * Software engineering evangelist providing consulting internally and externally - covering software factory, Agile, as well as DevSecOps culture and practices. Established an organizational improvement function (DevUP) to promote better knowledge transfer, emergent innovation, and thought leadership.
 * Business developer working with current and prospective sponsors, supporting white paper development, customer engagement and feedback, as well as speaking at various conferences and meetups to facilitate the modern software engineering (software factories and DevSecOps) dialog.
