@@ -7,7 +7,7 @@
 
 > [https://www.linkedin.com/in/kitplummer](https://www.linkedin.com/in/kitplummer) |
 
-> +1 520 360 4729
+> +1 678 741 4734
 
 ---
 
@@ -43,6 +43,7 @@ Providing modern software engineering leadership to GTRI's portfolio of sponsors
 * Chief Engineer for GTRI's design and development of Delta Flight Product's new In-Flight Entertainment system now flying on Airbus A330-900 aircraft, and soon coming to the entire fleet. Managed teams of embedded, mobile, system and test engineers across multiple organizations.
 * Software engineering evangelist providing consulting internally and externally - covering software factory, Agile, as well as DevSecOps culture and practices. Established an organizational improvement function (DevUP) to promote better knowledge transfer, emergent innovation, and thought leadership.
 * Business developer working with current and prospective sponsors, supporting white paper development, customer engagement and feedback, as well as speaking at various conferences and meetups to facilitate the modern software engineering (software factories and DevSecOps) dialog.
+* Teach _DevSecOps and Military Applications_ for GT Professional Education (https://pe.gatech.edu/courses/devsecops-and-military-applications)
 
 Ion Channel
 : *Founder/CTO*
