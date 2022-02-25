@@ -7,7 +7,9 @@
 
 > [https://www.linkedin.com/in/kitplummer](https://www.linkedin.com/in/kitplummer) |
 
-> +1 678 741 4734
+> [https://github.com/kitplummer](https://github.com/kitplummer)
+
+> +1 404 229 3233
 
 ---
 
