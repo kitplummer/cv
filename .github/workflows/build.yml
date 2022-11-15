@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     container: 
       image: there4/markdown-resume:latest
-      options: - /__w/cv/cv:/resume:rw
+      options: -v /__w/cv/cv:/resume:rw
     steps:
       - run: |
           md2resume pdf -t readable kp-resume.md .
