@@ -8,7 +8,7 @@ jobs:
     container: 
       image: there4/markdown-resume:latest
       volumes:
-        - ${{ GITHUB_WORKSPACE }}:/resume
+        - $GITHUB_WORKSPACE:/resume
     steps:
       - run: |
           md2resume pdf -t readable kp-resume.md .
