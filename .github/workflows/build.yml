@@ -1,0 +1,10 @@
+jobs:
+  container:
+    runs-on: ubuntu-latest
+    container: there4/markdown-resume:latest
+      volumes:
+        - .:/resume
+    steps:
+      - run: |
+          md2resume pdf -t readable kp-resume.md .
+        name: Run in container
