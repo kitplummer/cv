@@ -10,5 +10,6 @@ jobs:
       options: -v /__w/cv/cv:/resume:rw
     steps:
       - run: |
+          cd /resume
           md2resume pdf -t readable kp-resume.md .
         name: Run in container
