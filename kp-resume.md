@@ -35,7 +35,7 @@ A technology architect, software engineer and advisor focused on distributed com
 ### Experience {#experience}
 
 Microsoft Federal
-: Director, Modern Software Engineering and DevSecOps
+: *Director, Modern Software Engineering and DevSecOps*
   __2022-present__
   
 Creating and executing Microsoft's go-to-market strategy in support of Azure Government Cloud capabilities by focusing on engineers, developers and researchers within the federal partner ecosystem.
@@ -46,8 +46,8 @@ Georgia Tech Research Institute (GTRI)
 
 Providing modern software engineering leadership to GTRI's portfolio of sponsors and clients, focusing on the continuous delivery of high quality and secure products and services.
 
-* Chief Engineer for the Air National Guard/Air Force Reserve Test Center's Corsair Ranch software factory, and Platform One liason. Provide DevSecOps support in system development for a wide range of platforms to include: F-16, A-10, HH-60 as well as cyber and ground-based systems.
-* Researcher focused on software supply-chain risk and vulnerability assesment, targeting Open Source languages and their library ecosystems. Developed analysis tooling (https://lowendinsight.dev / https://github.com/gtri/lowendinsight) for large-scale analysis of library repositories for inherent developer risk.
+* Chief Engineer for the Air National Guard/Air Force Reserve Test Center's Corsair Ranch software factory, and Platform One liaison. Provide DevSecOps support in system development for a wide range of platforms to include: F-16, A-10, HH-60 as well as cyber and ground-based systems.
+* Researcher focused on software supply-chain risk and vulnerability assessment, targeting Open Source languages and their library ecosystems. Developed analysis tooling (https://lowendinsight.dev / https://github.com/gtri/lowendinsight) for large-scale analysis of library repositories for inherent developer risk.
 * Chief Engineer for GTRI's design and development of Delta Flight Product's new In-Flight Entertainment system now flying on Airbus A330-900 aircraft, and soon coming to the entire fleet. Managed teams of embedded, mobile, system and test engineers across multiple organizations.
 * Software engineering evangelist providing consulting internally and externally - covering software factory, Agile, as well as DevSecOps culture and practices. Established an organizational improvement function (DevUP) to promote better knowledge transfer, emergent innovation, and thought leadership.
 * Business developer working with current and prospective sponsors, supporting white paper development, customer engagement and feedback, as well as speaking at various conferences and meetups to facilitate the modern software engineering (software factories and DevSecOps) dialog.
@@ -68,8 +68,8 @@ Design and development of initial software supply-chain product/service offering
 
 * Microservices-based architecture targeting AWS infrastructure with automated test and delivery
 * Services written in Ruby and Golang deployed with Docker containers to AWS ECR/ECS
-* Integration with upstream data providers (NIST NVD, language ecosystems, Github) and ingest to local datastores
-* API, CLI, and UI development to support goverance, risk and compliance operations in multiple operational targets
+* Integration with upstream data providers (NIST NVD, language ecosystems, GitHub) and ingest to local datastores
+* API, CLI, and UI development to support governance, risk and compliance operations in multiple operational targets
 
 AirGap / RadiantBlue technologies
 : *Chief Engineer*
@@ -79,7 +79,7 @@ Consulted organizations on the "modern software engineering" enterprise
 
  * Communicating the need for enterprises to accommodate a flexible culture, to accommodate technology change, preventing debt and allowing for the right tool to be applied to the job at hand
  * Analyzing existing processes and documenting infrastructure and automation opportunities
- * Training on infrastructure-as-code tools (ie. Puppet, Chef) and cloud and container tools (Openstack and Docker)
+ * Training on infrastructure-as-code tools (i.e., Puppet, Chef, Ansible) and cloud and container tools (Openstack and Docker)
 
 Developed open source alternative solutions for defense and intelligence systems, to enable rapid and emergent innovation opportunities
 
