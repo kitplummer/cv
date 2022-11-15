@@ -8,7 +8,7 @@ jobs:
     container: 
       image: there4/markdown-resume:latest
       volumes:
-        - /home/runner/work:/resume
+        - /__w/cv/cv:/resume
     steps:
       - run: |
           md2resume pdf -t readable kp-resume.md .
