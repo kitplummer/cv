@@ -34,6 +34,12 @@ A technology architect, software engineer and advisor focused on distributed com
 
 ### Experience {#experience}
 
+Microsoft Federal
+: Director, Modern Software Engineering and DevSecOps
+  __2022-present__
+  
+Creating and executing Microsoft's go-to-market strategy in support of Azure Government Cloud capabilities by focusing on engineers, developers and researchers within the federal partner ecosystem.
+
 Georgia Tech Research Institute (GTRI)
 : *Principal Research Engineer*
   __2017-present__
