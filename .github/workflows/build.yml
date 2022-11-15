@@ -1,7 +1,8 @@
 jobs:
   container:
     runs-on: ubuntu-latest
-    container: there4/markdown-resume:latest
+    container: 
+      image: there4/markdown-resume:latest
       volumes:
         - .:/resume
     steps:
