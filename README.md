@@ -17,5 +17,5 @@ $ md2resume pdf -t readable kp-resume.md .
 With Docker:
 
 ```
-docker run -v ${PWD}:/. there4/markdown-resume md2resume html -t readable kp-resume.md .
+docker run -v ${PWD}:/resume there4/markdown-resume md2resume html -t readable kp-resume.md .
 ```

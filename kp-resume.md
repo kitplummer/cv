@@ -34,17 +34,23 @@ A technology architect, software engineer and advisor focused on distributed com
 
 ### Experience {#experience}
 
+Ditto
+: *Chief Enginer, Federal*
+  __2023-present__
+
+Development and delivery of Ditto's software development kits (SDK), database, and platform technology for federal customers.
+
 Microsoft Federal
 : *Director, Modern Software Engineering and DevSecOps*
-  __2022-present__
-  
-Creating and executing Microsoft's go-to-market strategy in support of Azure Government Cloud capabilities by focusing on engineers, developers and researchers within the federal partner ecosystem.
+  __2022-2023__
+
+Created and executed Microsoft's go-to-market DevSecOps strategy in support of Azure Government Cloud capabilities by focusing on engineers, developers and researchers within the federal partner ecosystem.
 
 Georgia Tech Research Institute (GTRI)
 : *Principal Research Engineer*
   __2017-present__
 
-Providing modern software engineering leadership to GTRI's portfolio of sponsors and clients, focusing on the continuous delivery of high quality and secure products and services.
+Provided modern software engineering leadership to GTRI's portfolio of sponsors and clients, focusing on the continuous delivery of high quality and secure products and services.
 
 * Chief Engineer for the Air National Guard/Air Force Reserve Test Center's Corsair Ranch software factory, and Platform One liaison. Provide DevSecOps support in system development for a wide range of platforms to include: F-16, A-10, HH-60 as well as cyber and ground-based systems.
 * Researcher focused on software supply-chain risk and vulnerability assessment, targeting Open Source languages and their library ecosystems. Developed analysis tooling (https://lowendinsight.dev / https://github.com/gtri/lowendinsight) for large-scale analysis of library repositories for inherent developer risk.
