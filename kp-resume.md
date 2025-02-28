@@ -4,28 +4,31 @@
 
 > [Download PDF](kp-resume.pdf) |
 > [kitplummer@gmail.com](kitplummer@gmail.com) |
-> [https://www.linkedin.com/in/kitplummer](https://www.linkedin.com/in/kitplummer) |
-> [https://github.com/kitplummer](https://github.com/kitplummer)
-> +1 404 229 3233
+> [https://www.linkedin.com/in/kitplummer](https://www.linkedin.com/in/kitplummer)
+
+> [https://github.com/kitplummer](https://github.com/kitplummer) | +1 404 229 3233
 
 ---
 
 ### Profile
 
-A technology architect, software engineer and advisor focused on distributed computing, open source development, software delivery operations. Current holder of TS-SCI clearance.
-
----
+Innovative technology leader with extensive experience in distributed computing, software engineering, and secure DevSecOps implementations. Proven track record of architecting scalable solutions for federal and enterprise clients, with expertise in software supply-chain security, open source development, and building high-performance teams. Strategic advisor focused on emergent technologies with current TS-SCI clearance.
 
 ### Skills {#skills}
 
-* Problem Solver
-  : Analyzing difficult problems and providing quick and maintainable solutions that allow organizations to be ready for market opportunities.
+TECHNICAL EXPERTISE
 
-* Change Agent
-  : In tune with start-up and enterprise practices, excelling at evolving engineering methodologies towards optimum delivery requirements.
+- Software Development: Java, Ruby, Golang, Rust, JavaScript, Python, OSGi, RESTful APIs
+- Cloud & Infrastructure: AWS (EC2, S3, RDS, Route53), Azure Government Cloud, OpenStack, Docker, Kubernetes
+- DevSecOps: CI/CD Pipelines, Infrastructure-as-Code, Software Supply-Chain Security, Vulnerability Assessment
+- Platforms: Microservices Architecture, Distributed Systems, Mobile (iOS/Android), Embedded Systems
 
-* Service Focus
-  : Communicating and managing needs between customers, engineers and operators, helping all to focus on their respective tasks - effectively and efficiently.
+LEADERSHIP
+
+- Team Building: Cross-functional team management, distributed workforce leadership, talent development
+- Business Development: Federal contracting, proposal writing, client relationship management
+- Strategic Planning: Go-to-market strategy, product roadmapping, innovation culture development
+- Communication: Technical presentations, stakeholder management, interdepartmental collaboration
 
 ---
 
@@ -37,13 +40,13 @@ Ditto
 
 Development and delivery of Ditto's platform (cloud-to-edge) technology for federal customers.
 
-* Received Defense Innovation Unit Success Memo for developing the Common Operational Datasync capability, enabling dynamic integration of multiple platform providers to swarm with different autonomy packages, reducing operational costs and eliminating a priori configuration
-* Secured a $28M STRATFI (Strategic Funding Increase) award to accelerate the delivery of Ditto technologies in support of various National Security objectives
-* Delivered Ditto's TAK Edge Sync plugin to TAK.gov, providing peer-to-peer data synchronization to special operators around the world and enabling real-time data-sharing between partners
-* Built the Federal unit's go-to-market strategy covering cloud operations, edge integration, and mobile deployments - highlighting Ditto's funding raises, delivery successes, and team growth
-* Supported customer implementations across multiple platforms and technologies including iOS, Android, Rust, and JavaScript to ensure seamless integration and deployment
-* Managed a cross-functional team of program and project managers, software engineers, customer success engineers, and business developers to deliver integrated solutions for federal clients
-* Filed patents for innovative applications of Ditto technology in solving applied AI challenges, specifically addressing anomaly detection and the redistribution of retrained models
+- Received Defense Innovation Unit Success Memo for developing the Common Operational Datasync capability, enabling dynamic integration of multiple platform providers to swarm with different autonomy packages, reducing operational costs and eliminating a priori configuration
+- Secured a $28M STRATFI (Strategic Funding Increase) award to accelerate the delivery of Ditto technologies in support of various National Security objectives
+- Delivered Ditto's TAK Edge Sync plugin to TAK.gov, providing peer-to-peer data synchronization to special operators around the world and enabling real-time data-sharing between partners
+- Built the Federal unit's go-to-market strategy covering cloud operations, edge integration, and mobile deployments - highlighting Ditto's funding raises, delivery successes, and team growth
+- Supported customer implementations across multiple platforms and technologies including iOS, Android, Rust, and JavaScript to ensure seamless integration and deployment
+- Managed a cross-functional team of program and project managers, software engineers, customer success engineers, and business developers to deliver integrated solutions for federal clients
+- Filed patents for innovative applications of Ditto technology in solving applied AI challenges, specifically addressing anomaly detection and the redistribution of retrained models
 
 Microsoft Federal
 : *Director, Modern Software Engineering and DevSecOps*
@@ -57,12 +60,12 @@ Georgia Tech Research Institute (GTRI)
 
 Provided modern software engineering leadership to GTRI's portfolio of sponsors and clients, focusing on the continuous delivery of high quality and secure products and services.
 
-* Chief Engineer for the Air National Guard/Air Force Reserve Test Center's Corsair Ranch software factory, and Platform One liaison. Provide DevSecOps support in system development for a wide range of platforms to include: F-16, A-10, HH-60 as well as cyber and ground-based systems.
-* Researcher focused on software supply-chain risk and vulnerability assessment, targeting Open Source languages and their library ecosystems. Developed analysis tooling (<https://lowendinsight.dev> / <https://github.com/gtri/lowendinsight>) for large-scale analysis of library repositories for inherent developer risk.
-* Chief Engineer for GTRI's design and development of Delta Flight Product's new In-Flight Entertainment system now flying on Airbus A330-900 aircraft, and soon coming to the entire fleet. Managed teams of embedded, mobile, system and test engineers across multiple organizations.
-* Software engineering evangelist providing consulting internally and externally - covering software factory, Agile, as well as DevSecOps culture and practices. Established an organizational improvement function (DevUP) to promote better knowledge transfer, emergent innovation, and thought leadership.
-* Business developer working with current and prospective sponsors, supporting white paper development, customer engagement and feedback, as well as speaking at various conferences and meetups to facilitate the modern software engineering (software factories and DevSecOps) dialog.
-* Teach *DevSecOps and Military Applications* for GT Professional Education (<https://pe.gatech.edu/courses/devsecops-and-military-applications>)
+- Chief Engineer for the Air National Guard/Air Force Reserve Test Center's Corsair Ranch software factory, and Platform One liaison. Provide DevSecOps support in system development for a wide range of platforms to include: F-16, A-10, HH-60 as well as cyber and ground-based systems.
+- Researcher focused on software supply-chain risk and vulnerability assessment, targeting Open Source languages and their library ecosystems. Developed analysis tooling (<https://lowendinsight.dev> / <https://github.com/gtri/lowendinsight>) for large-scale analysis of library repositories for inherent developer risk.
+- Chief Engineer for GTRI's design and development of Delta Flight Product's new In-Flight Entertainment system now flying on Airbus A330-900 aircraft, and soon coming to the entire fleet. Managed teams of embedded, mobile, system and test engineers across multiple organizations.
+- Software engineering evangelist providing consulting internally and externally - covering software factory, Agile, as well as DevSecOps culture and practices. Established an organizational improvement function (DevUP) to promote better knowledge transfer, emergent innovation, and thought leadership.
+- Business developer working with current and prospective sponsors, supporting white paper development, customer engagement and feedback, as well as speaking at various conferences and meetups to facilitate the modern software engineering (software factories and DevSecOps) dialog.
+- Teach *DevSecOps and Military Applications* for GT Professional Education (<https://pe.gatech.edu/courses/devsecops-and-military-applications>)
 
 Ion Channel
 : *Founder/CTO*
@@ -70,17 +73,17 @@ Ion Channel
 
 Business development and award of multiple $1M+ contracts with various intelligence community agencies, addressing software supply-chain requirements and source-code cybersecurity.
 
-* Established and staffed engineering team in Portland OR focusing on 'product'-oriented development
-* Coordinated initial feature requirements from customer/system/process consulting and analysis
-* Led engineering team through dev tools, process and methods selection
-* Rolled out continuous delivery infrastructure and processes to automate delivery of source and artifacts to customers
+- Established and staffed engineering team in Portland OR focusing on 'product'-oriented development
+- Coordinated initial feature requirements from customer/system/process consulting and analysis
+- Led engineering team through dev tools, process and methods selection
+- Rolled out continuous delivery infrastructure and processes to automate delivery of source and artifacts to customers
 
 Design and development of initial software supply-chain product/service offerings
 
-* Microservices-based architecture targeting AWS infrastructure with automated test and delivery
-* Services written in Ruby and Golang deployed with Docker containers to AWS ECR/ECS
-* Integration with upstream data providers (NIST NVD, language ecosystems, GitHub) and ingest to local datastores
-* API, CLI, and UI development to support governance, risk and compliance operations in multiple operational targets
+- Microservices-based architecture targeting AWS infrastructure with automated test and delivery
+- Services written in Ruby and Golang deployed with Docker containers to AWS ECR/ECS
+- Integration with upstream data providers (NIST NVD, language ecosystems, GitHub) and ingest to local datastores
+- API, CLI, and UI development to support governance, risk and compliance operations in multiple operational targets
 
 AirGap / RadiantBlue technologies
 : *Chief Engineer*
@@ -88,24 +91,24 @@ AirGap / RadiantBlue technologies
 
 Consulted organizations on the "modern software engineering" enterprise
 
-* Communicating the need for enterprises to accommodate a flexible culture, to accommodate technology change, preventing debt and allowing for the right tool to be applied to the job at hand
-* Analyzing existing processes and documenting infrastructure and automation opportunities
-* Training on infrastructure-as-code tools (i.e., Puppet, Chef, Ansible) and cloud and container tools (Openstack and Docker)
+- Communicating the need for enterprises to accommodate a flexible culture, to accommodate technology change, preventing debt and allowing for the right tool to be applied to the job at hand
+- Analyzing existing processes and documenting infrastructure and automation opportunities
+- Training on infrastructure-as-code tools (i.e., Puppet, Chef, Ansible) and cloud and container tools (Openstack and Docker)
 
 Developed open source alternative solutions for defense and intelligence systems, to enable rapid and emergent innovation opportunities
 
-* Utilizing public and private cloud technologies (e.g. Amazon Web Services(AWS): EC2, S3/Glacier, Route53, RDS, etc.; Heroku PaaS; OpenShift) as well as emerging technologies such as NoSQL, map-reduce, and dynamic software frameworks
-* Consulting on continuous integration, continuous delivery (CI/CD) and infrastucture-as-code (IaC) practices
-* Supporting open source operations, serving as a board member at [The Codice Foundation](http://www.codice.org)
-* Working with the [Distributed Data Framework](https://tools.codice.org/wiki/display/DDF/DDF+Home) project, providing Puppet and AWS support to support dynamic provision and auto-configuration of large-scale deployments
+- Utilizing public and private cloud technologies (e.g. Amazon Web Services(AWS): EC2, S3/Glacier, Route53, RDS, etc.; Heroku PaaS; OpenShift) as well as emerging technologies such as NoSQL, map-reduce, and dynamic software frameworks
+- Consulting on continuous integration, continuous delivery (CI/CD) and infrastucture-as-code (IaC) practices
+- Supporting open source operations, serving as a board member at [The Codice Foundation](http://www.codice.org)
+- Working with the [Distributed Data Framework](https://tools.codice.org/wiki/display/DDF/DDF+Home) project, providing Puppet and AWS support to support dynamic provision and auto-configuration of large-scale deployments
 
 Managing development and operation of a workflow automation engine for delivery of software components
 
-* Architected and implemented private cloud infrastructure based on Openstack, Puppet and Docker, and augmented by AWS compute and storage resources
-* Designed a workflow engine for distributed task operations using Mongo, Grails, PostgreSQL, and Activiti
-* Developed Ruby microservices connecting external data sources (e.g. NIST vulnerability database, VirusTotal, fossology)
-* Worked with agencies to capture security process/audit, transport, and component manifesting requirements
-* Integrating Amazon Web Services for elastic test agents, and disaster recovery flows for system images and software artifacts
+- Architected and implemented private cloud infrastructure based on Openstack, Puppet and Docker, and augmented by AWS compute and storage resources
+- Designed a workflow engine for distributed task operations using Mongo, Grails, PostgreSQL, and Activiti
+- Developed Ruby microservices connecting external data sources (e.g. NIST vulnerability database, VirusTotal, fossology)
+- Worked with agencies to capture security process/audit, transport, and component manifesting requirements
+- Integrating Amazon Web Services for elastic test agents, and disaster recovery flows for system images and software artifacts
 
 MaestroDev
 : *VP, Product Engineering*
@@ -113,16 +116,16 @@ MaestroDev
 
 Led the design and development of a DevOps tool suite to support emerging enterprise markets with software development-through-operations workflow automation
 
-* Managed a globally distributed staff of software engineers, designers, technical writers, and administrators
-* Communicated with executive stakeholders regarding strategy, execution and operational needs
-* Worked with customers and test sites to optimize the delivery, monitoring and operation of system components
-* Built a Ruote-based workflow engine that integrated best-of-breed tools in the SCM, CI, deployment, provisioning and configuration management arena
+- Managed a globally distributed staff of software engineers, designers, technical writers, and administrators
+- Communicated with executive stakeholders regarding strategy, execution and operational needs
+- Worked with customers and test sites to optimize the delivery, monitoring and operation of system components
+- Built a Ruote-based workflow engine that integrated best-of-breed tools in the SCM, CI, deployment, provisioning and configuration management arena
 
 Dozer Software LLC
 : *Principal*
   __Present__
 
-* Provide rapid prototyping, system design, and software engineering services to local, defense and mining organizations
+- Provide rapid prototyping, system design, and software engineering services to local, defense and mining organizations
 
 Accenture National Security Services
 : *Technical Architect*
@@ -130,21 +133,21 @@ Accenture National Security Services
 
 Developed a semantic wiki/text engineering platform for document/intelligence inference for US ARMY CDI
 
-* Processing document similarity and entity extraction algorithms to create “linkable” relationships
-* Integrating open source projects Grails, GATE, UIMA, Tika, Jena to minimize costs and license constraints
-* Architected for component distribution and high-scalability using publish-subscribe/XML/RDF interconnects
+- Processing document similarity and entity extraction algorithms to create “linkable” relationships
+- Integrating open source projects Grails, GATE, UIMA, Tika, Jena to minimize costs and license constraints
+- Architected for component distribution and high-scalability using publish-subscribe/XML/RDF interconnects
 
 Architected and designed a dynamic data discovery and visualization service platform for USAF (SAF)
 
-* Utilizing off-the-shelf software frameworks (Grails and OSGi) for maximum developmental performance
-* Implemented multiple search algorithms to identify location/geo-based and other information
-* Following Scrum agile software engineering methodology with geo-distributed team
+- Utilizing off-the-shelf software frameworks (Grails and OSGi) for maximum developmental performance
+- Implemented multiple search algorithms to identify location/geo-based and other information
+- Following Scrum agile software engineering methodology with geo-distributed team
 
 Established and architected an open source contextual collaboration suite for the USAF
 
-* Developed early prototype using Java/OSGi frameworks and HTTP interfaces
-* Ported design to Ruby and Rails, RESTful, and Service-Oriented Architecture
-* Published whitepapers and spoke at various Open Source and defense conferences and symposiums
+- Developed early prototype using Java/OSGi frameworks and HTTP interfaces
+- Ported design to Ruby and Rails, RESTful, and Service-Oriented Architecture
+- Published whitepapers and spoke at various Open Source and defense conferences and symposiums
 
 Raytheon Missile Systems – Advanced Programs
 : *Principal Software Engineer*
@@ -152,22 +155,22 @@ Raytheon Missile Systems – Advanced Programs
 
 Developed a tactically-aware service integration platform, based on Enterprise Service Bus principals
 
-* Created software development kit (API, documentation and tooling) for service developers
-* Developed information assurance and security mechanisms to support multi-level classification support
-* Participated in industry Expert Groups to drive specifications and standards towards company needs
-* Operated in an Open development environment using GForge, Subversion, Maven, and Continuum
+- Created software development kit (API, documentation and tooling) for service developers
+- Developed information assurance and security mechanisms to support multi-level classification support
+- Participated in industry Expert Groups to drive specifications and standards towards company needs
+- Operated in an Open development environment using GForge, Subversion, Maven, and Continuum
 
 Lead engineer for the development of an unmanned system's mission computer/processing platform
 
-* Performed processing platform trade study, researching against performance, scalability, size, weight, power, and interconnection requirements
-* Supported initial flight testing of hardware, applied modifications to design as necessary
-* Engineered a custom interface and mount for easy connection of communications and power adapters
-* Integrated tactical and commercial datalinks to provide mobile ad-hoc network connectivity
+- Performed processing platform trade study, researching against performance, scalability, size, weight, power, and interconnection requirements
+- Supported initial flight testing of hardware, applied modifications to design as necessary
+- Engineered a custom interface and mount for easy connection of communications and power adapters
+- Integrated tactical and commercial datalinks to provide mobile ad-hoc network connectivity
 
 Served as a Co-Chair of the Communications Technology Interest Group and Software Engineering Networks
 
-* Organized and participate in large symposiums and workshops, reviewing content and managing events
-* Fostered Open Technology Development and the use of Open Source software and tools
+- Organized and participate in large symposiums and workshops, reviewing content and managing events
+- Fostered Open Technology Development and the use of Open Source software and tools
 
 __Raytheon Missile Systems – Operations Research__: *Systems Engineer* __2003-2005__
 
@@ -223,4 +226,4 @@ Completed coursework covering VxWorks 5.4 and Tornado 2.0
 
 [Github](http://github.io/kitplummer), Source code
 
-[kitplummer.github.io](http://kitplummer.github.io), Blog
+[LinkedIn](https://linkedin.com/in/kitplummer)
