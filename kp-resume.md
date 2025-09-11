@@ -1,6 +1,6 @@
 # Kit Plummer
 
-## Technology Architect & Software Engineering Practitioner
+## Technology Architect & Software Engineer
 
 > [Download PDF](kp-resume.pdf) |
 > [kitplummer@gmail.com](kitplummer@gmail.com) |
@@ -89,7 +89,7 @@ Developed open source alternative solutions for defense and intelligence systems
 - Supporting open source operations, serving as a board member at [The Codice Foundation](http://www.codice.org)
 - Working with the [Distributed Data Framework](https://tools.codice.org/wiki/display/DDF/DDF+Home) project, providing Puppet and AWS support to support dynamic provision and auto-configuration of large-scale deployments
 
-Managing development and operation of a workflow automation engine for delivery of software components
+Led development and operation of a workflow automation engine for delivery of software components
 
 - Architected and implemented private cloud infrastructure based on Openstack, Puppet and Docker, and augmented by AWS compute and storage resources
 - Designed a workflow engine for distributed task operations using Mongo, Grails, PostgreSQL, and Activiti

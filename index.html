@@ -6,25 +6,347 @@
 <link href="http://netdna.bootstrapcdn.com/bootswatch/3.1.1/readable/bootstrap.min.css" rel="stylesheet">
 
 <style type="text/css">
-#footer {
-  display: none;
-}
-#footer + p {
-  width: 100%;
-  font-size: 11px;
+/* Modern Resume CSS - Clean Professional Design */
+
+/* Reset and Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+  line-height: 1.6;
+  color: #2c3e50;
+  background: #ffffff;
+  font-size: 15px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 40px 30px;
+}
+
+/* Typography */
+h1 {
+  font-size: 2.5em;
+  font-weight: 700;
+  color: #1a202c;
+  margin-bottom: 8px;
+  letter-spacing: -0.5px;
+}
+
+h2 {
+  font-size: 1.3em;
+  font-weight: 400;
+  color: #64748b;
+  margin-bottom: 20px;
+  letter-spacing: 0.5px;
+}
+
+h3 {
+  font-size: 1.4em;
+  font-weight: 600;
+  color: #1e293b;
+  margin-top: 35px;
+  margin-bottom: 20px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #e2e8f0;
+  letter-spacing: -0.2px;
+}
+
+h3:first-of-type {
+  margin-top: 25px;
+}
+
+/* Contact Info Bar */
+blockquote {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  border-radius: 8px;
+  padding: 15px 20px;
+  margin-bottom: 25px;
+  font-size: 0.95em;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
+}
+
+blockquote p {
+  margin: 0;
+  color: #ffffff;
+}
+
+blockquote a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 500;
+  transition: opacity 0.2s;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+blockquote a:hover {
+  opacity: 0.9;
+  border-bottom-color: #ffffff;
+}
+
+/* Horizontal Rule */
+hr {
+  border: none;
+  border-top: 1px solid #e2e8f0;
+  margin: 30px 0;
+}
+
+/* Profile Section */
+p {
+  margin-bottom: 15px;
+  line-height: 1.7;
+  color: #475569;
+}
+
+/* Skills Section */
+#skills + p strong,
+p strong:only-child {
+  font-weight: 600;
+  color: #1e293b;
+  font-size: 1.05em;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 12px;
+  padding-left: 0;
+}
+
+ul {
+  margin-left: 0;
+  margin-bottom: 15px;
+  list-style: none;
+}
+
+ul li {
+  position: relative;
+  padding-left: 24px;
+  margin-bottom: 10px;
+  line-height: 1.7;
+  color: #475569;
+  transition: transform 0.2s;
+}
+
+ul li:hover {
+  transform: translateX(3px);
+}
+
+ul li:before {
+  content: "▸";
+  position: absolute;
+  left: 8px;
+  color: #667eea;
+  font-weight: bold;
+}
+
+ul li strong {
+  font-weight: 600;
+  color: #334155;
+}
+
+/* Experience Section */
+#experience ~ p strong:first-child {
+  color: #1e293b;
+  font-size: 1.15em;
+  font-weight: 600;
+}
+
+#experience ~ p {
+  margin-top: 28px;
+  margin-bottom: 12px;
+}
+
+#experience ~ p em {
+  color: #667eea;
+  font-style: normal;
+  font-weight: 500;
+  padding: 0 8px;
+}
+
+#experience ~ p strong:last-child {
+  float: right;
+  color: #64748b;
+  font-size: 0.95em;
+  font-weight: 500;
+}
+
+/* Links */
+a {
+  color: #667eea;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+a:hover {
+  color: #764ba2;
+  text-decoration: underline;
+}
+
+/* Education Section */
+h3:last-of-type ~ p {
+  margin-top: 0;
+}
+
+/* Print Styles */
+@media print {
+  body {
+    font-size: 11pt;
+    line-height: 1.5;
+    color: #000;
+    background: white;
+  }
+  
+  .container {
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  
+  h1 {
+    font-size: 24pt;
+    margin-bottom: 4pt;
+    page-break-after: avoid;
+  }
+  
+  h2 {
+    font-size: 12pt;
+    margin-bottom: 12pt;
+    page-break-after: avoid;
+  }
+  
+  h3 {
+    font-size: 14pt;
+    margin-top: 18pt;
+    margin-bottom: 10pt;
+    page-break-after: avoid;
+    border-bottom: 1pt solid #ccc;
+  }
+  
+  blockquote {
+    background: none;
+    border: 1pt solid #666;
+    padding: 8pt;
+    margin-bottom: 12pt;
+    page-break-inside: avoid;
+    box-shadow: none;
+  }
+  
+  blockquote p {
+    color: #000;
+  }
+  
+  blockquote a {
+    color: #000;
+    text-decoration: underline;
+    border: none;
+  }
+  
+  p {
+    margin-bottom: 8pt;
+    orphans: 3;
+    widows: 3;
+  }
+  
+  ul {
+    margin-bottom: 8pt;
+  }
+  
+  ul li {
+    margin-bottom: 4pt;
+    page-break-inside: avoid;
+  }
+  
+  ul li:before {
+    content: "•";
+    color: #000;
+  }
+  
+  ul li:hover {
+    transform: none;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+  
+  /* Keep experience entries together */
+  #experience ~ p {
+    page-break-before: auto;
+    page-break-after: avoid;
+  }
+  
+  #experience ~ p + p,
+  #experience ~ p + ul {
+    page-break-before: avoid;
+  }
+  
+  #experience ~ p strong:last-child {
+    float: right;
+  }
+  
+  #experience ~ p em {
+    color: #000;
+    font-weight: 600;
+  }
+  
+  /* Avoid breaking inside education entries */
+  h3:last-of-type ~ p {
+    page-break-inside: avoid;
+  }
+  
+  hr {
+    display: none;
+  }
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 20px 15px;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.1em;
+  }
+  
+  h3 {
+    font-size: 1.3em;
+  }
+  
+  body {
+    font-size: 14px;
+  }
+  
+  blockquote {
+    padding: 12px 15px;
+  }
+  
+  #experience ~ p strong:last-child {
+    float: none;
+    display: block;
+    margin-top: 4px;
+  }
+}
 </style>
 </head>
 <body>
     <div class="container">
         <h1>Kit Plummer</h1>
 
-<h2>Technology Architect &amp; Software Engineering Practitioner</h2>
+<h2>Technology Architect &amp; Software Engineer</h2>
 
 <blockquote>
   <p><a href="kp-resume.pdf">Download PDF</a> |
-  <a href="kitplummer@gmail.com">kitplummer@gmail.com</a> |
+  <a href="mailto:kitplummer@gmail.com">kitplummer@gmail.com</a> |
   <a href="https://www.linkedin.com/in/kitplummer">LinkedIn</a> |
   <a href="https://github.com/kitplummer">GitHub</a> | +1 404 229 3233</p>
 </blockquote>
@@ -127,7 +449,7 @@
 <li>Working with the <a href="https://tools.codice.org/wiki/display/DDF/DDF+Home">Distributed Data Framework</a> project, providing Puppet and AWS support to support dynamic provision and auto-configuration of large-scale deployments</li>
 </ul>
 
-<p>Managing development and operation of a workflow automation engine for delivery of software components</p>
+<p>Led development and operation of a workflow automation engine for delivery of software components</p>
 
 <ul>
 <li>Architected and implemented private cloud infrastructure based on Openstack, Puppet and Docker, and augmented by AWS compute and storage resources</li>
