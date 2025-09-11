@@ -4,39 +4,36 @@
 
 > [Download PDF](kp-resume.pdf) |
 > [kitplummer@gmail.com](kitplummer@gmail.com) |
-> [https://www.linkedin.com/in/kitplummer](https://www.linkedin.com/in/kitplummer)
-
-> [https://github.com/kitplummer](https://github.com/kitplummer) | +1 404 229 3233
+> [LinkedIn](https://www.linkedin.com/in/kitplummer) |
+> [GitHub](https://github.com/kitplummer) | +1 404 229 3233
 
 ---
 
 ### Profile
 
-Innovative technology leader with extensive experience in distributed computing, software engineering, and secure DevSecOps implementations. Proven track record of architecting scalable solutions for federal and enterprise clients, with expertise in software supply-chain security, open source development, and building high-performance teams. Strategic advisor focused on emergent technologies with current TS-SCI clearance.
+Technology executive who led Ditto from SBIR Phase I to $28M STRATFI award, delivering edge-computing solutions to defense and intelligence customers. Expert in software supply-chain security, DevSecOps transformation, and distributed systems/edge-first architecture. Proven record scaling federal technology teams, securing multi-million dollar contracts, and translating complex technical solutions into business outcomes. Current TS-SCI clearance.
 
 ### Skills {#skills}
 
-TECHNICAL EXPERTISE
+**TECHNICAL EXPERTISE**
 
-- Software Development: Java, Ruby, Golang, Rust, JavaScript, Python, OSGi, RESTful APIs
-- Cloud & Infrastructure: AWS (EC2, S3, RDS, Route53), Azure Government Cloud, OpenStack, Docker, Kubernetes
-- DevSecOps: CI/CD Pipelines, Infrastructure-as-Code, Software Supply-Chain Security, Vulnerability Assessment
-- Platforms: Microservices Architecture, Distributed Systems, Mobile (iOS/Android), Embedded Systems
+- **Software Development:** Rust, Golang, JavaScript/TypeScript, Python, Java, Ruby, AI, Testing and Automation
+- **Cloud & Infrastructure:** AWS, Azure Government Cloud, Kubernetes, Containers, Infrastructure-as-Code
+- **DevSecOps & Security:** CI/CD Pipelines, GitOps, Software Supply-Chain Security, SBOM Generation, Vulnerability Assessment, Zero Trust Architecture
+- **Edge Computing & Distributed Systems:** Peer-to-peer synchronization, Offline-first architectures, Mobile (iOS/Android), Embedded systems
 
-LEADERSHIP
+**LEADERSHIP & BUSINESS**
 
-- Team Building: Cross-functional team management, distributed workforce leadership, talent development
-- Business Development: Federal contracting, proposal writing, client relationship management
-- Strategic Planning: Go-to-market strategy, product roadmapping, innovation culture development
-- Communication: Technical presentations, stakeholder management, interdepartmental collaboration
+- **Team Building:** Cross-functional team management, distributed workforce leadership, talent development, remote team scaling
+- **Federal Business Development:** SBIR/STTR programs, TACFI/STRATFI awards, defense contracting, proposal writing
+- **Strategic Planning:** Go-to-market strategy, product roadmapping, innovation culture development, technology evangelism
+- **Stakeholder Management:** C-suite presentations, customer success, interdepartmental collaboration, conference speaking
 
 ---
 
 ### Experience {#experience}
 
-Ditto
-: *Chief Enginer, Federal*
-  __2023-present__
+**Ditto** | *Chief Engineer, Federal* | **2023-present**
 
 Development and delivery of Ditto's platform (cloud-to-edge) technology for federal customers.
 
@@ -47,29 +44,21 @@ Development and delivery of Ditto's platform (cloud-to-edge) technology for fede
 - Supported customer implementations across multiple platforms and technologies including iOS, Android, Rust, and JavaScript to ensure seamless integration and deployment
 - Managed a cross-functional team of program and project managers, software engineers, customer success engineers, and business developers to deliver integrated solutions for federal clients
 - Filed patents for innovative applications of Ditto technology in solving applied AI challenges, specifically addressing anomaly detection and the redistribution of retrained models
+- Represented Ditto's Public Sector team at many defense and intelligence exercises, test events and conferences
 
-Microsoft Federal
-: *Director, Modern Software Engineering and DevSecOps*
-  __2022-2023__
+**Microsoft Federal** | *Director, Modern Software Engineering and DevSecOps* | **2022-2023**
 
 Created and executed Microsoft's go-to-market DevSecOps strategy in support of Azure Government Cloud capabilities by focusing on engineers, developers and researchers within the federal partner ecosystem.
 
-Georgia Tech Research Institute (GTRI)
-: *Principal Research Engineer*
-  __2017-present__
+**Georgia Tech Research Institute (GTRI)** | *Principal Research Engineer* | **2017-2022**
 
-Provided modern software engineering leadership to GTRI's portfolio of sponsors and clients, focusing on the continuous delivery of high quality and secure products and services.
+- Chief Engineer for Air National Guard/Air Force Reserve Test Center's Corsair Ranch software factory and Platform One liaison, supporting F-16, A-10, HH-60 platforms
+- Developed software supply-chain risk analysis tooling (lowendinsight.dev) for large-scale library vulnerability assessment
+- Chief Engineer for Delta's new In-Flight Entertainment system on Airbus A330-900 fleet, managing cross-organizational engineering teams
+- Established DevUP organizational improvement function and taught *DevSecOps and Military Applications* at GT Professional Education
+- Led business development, white papers, and conference speaking to advance software factory and DevSecOps adoption
 
-- Chief Engineer for the Air National Guard/Air Force Reserve Test Center's Corsair Ranch software factory, and Platform One liaison. Provide DevSecOps support in system development for a wide range of platforms to include: F-16, A-10, HH-60 as well as cyber and ground-based systems.
-- Researcher focused on software supply-chain risk and vulnerability assessment, targeting Open Source languages and their library ecosystems. Developed analysis tooling (<https://lowendinsight.dev> / <https://github.com/gtri/lowendinsight>) for large-scale analysis of library repositories for inherent developer risk.
-- Chief Engineer for GTRI's design and development of Delta Flight Product's new In-Flight Entertainment system now flying on Airbus A330-900 aircraft, and soon coming to the entire fleet. Managed teams of embedded, mobile, system and test engineers across multiple organizations.
-- Software engineering evangelist providing consulting internally and externally - covering software factory, Agile, as well as DevSecOps culture and practices. Established an organizational improvement function (DevUP) to promote better knowledge transfer, emergent innovation, and thought leadership.
-- Business developer working with current and prospective sponsors, supporting white paper development, customer engagement and feedback, as well as speaking at various conferences and meetups to facilitate the modern software engineering (software factories and DevSecOps) dialog.
-- Teach *DevSecOps and Military Applications* for GT Professional Education (<https://pe.gatech.edu/courses/devsecops-and-military-applications>)
-
-Ion Channel
-: *Founder/CTO*
-  __2015-2017__
+**Ion Channel** | *Founder/CTO* | **2015-2017**
 
 Business development and award of multiple $1M+ contracts with various intelligence community agencies, addressing software supply-chain requirements and source-code cybersecurity.
 
@@ -85,9 +74,7 @@ Design and development of initial software supply-chain product/service offering
 - Integration with upstream data providers (NIST NVD, language ecosystems, GitHub) and ingest to local datastores
 - API, CLI, and UI development to support governance, risk and compliance operations in multiple operational targets
 
-AirGap / RadiantBlue technologies
-: *Chief Engineer*
-  __2012-2015__
+**AirGap / RadiantBlue Technologies** | *Chief Engineer* | **2012-2015**
 
 Consulted organizations on the "modern software engineering" enterprise
 
@@ -110,9 +97,7 @@ Managing development and operation of a workflow automation engine for delivery 
 - Worked with agencies to capture security process/audit, transport, and component manifesting requirements
 - Integrating Amazon Web Services for elastic test agents, and disaster recovery flows for system images and software artifacts
 
-MaestroDev
-: *VP, Product Engineering*
-  __2011-2012__
+**MaestroDev** | *VP, Product Engineering* | **2011-2012**
 
 Led the design and development of a DevOps tool suite to support emerging enterprise markets with software development-through-operations workflow automation
 
@@ -121,15 +106,11 @@ Led the design and development of a DevOps tool suite to support emerging enterp
 - Worked with customers and test sites to optimize the delivery, monitoring and operation of system components
 - Built a Ruote-based workflow engine that integrated best-of-breed tools in the SCM, CI, deployment, provisioning and configuration management arena
 
-Dozer Software LLC
-: *Principal*
-  __Present__
+**Dozer Software LLC** | *Principal* | **2000-2017**
 
-- Provide rapid prototyping, system design, and software engineering services to local, defense and mining organizations
+- Provided rapid prototyping, system design, and software engineering services to local, defense and mining organizations
 
-Accenture National Security Services
-: *Technical Architect*
-  __2007-2010__
+**Accenture National Security Services** | *Technical Architect* | **2007-2010**
 
 Developed a semantic wiki/text engineering platform for document/intelligence inference for US ARMY CDI
 
@@ -149,67 +130,37 @@ Established and architected an open source contextual collaboration suite for th
 - Ported design to Ruby and Rails, RESTful, and Service-Oriented Architecture
 - Published whitepapers and spoke at various Open Source and defense conferences and symposiums
 
-Raytheon Missile Systems – Advanced Programs
-: *Principal Software Engineer*
-  __2005–2007__
+**Raytheon Missile Systems** | *Principal Software Engineer / Systems Engineer* | **2003-2007**
 
-Developed a tactically-aware service integration platform, based on Enterprise Service Bus principals
+- Developed tactically-aware service integration platform based on Enterprise Service Bus architecture
+- Lead engineer for unmanned system mission computer/processing platform development and flight testing
+- Created SDK (API, documentation, tooling) and multi-level security mechanisms for service developers
+- Co-chaired Communications Technology Interest Group, fostering open source adoption in defense systems
 
-- Created software development kit (API, documentation and tooling) for service developers
-- Developed information assurance and security mechanisms to support multi-level classification support
-- Participated in industry Expert Groups to drive specifications and standards towards company needs
-- Operated in an Open development environment using GForge, Subversion, Maven, and Continuum
+**Early Career** | *Systems Engineer, Instructor, IT Manager* | **1990-2003**
 
-Lead engineer for the development of an unmanned system's mission computer/processing platform
-
-- Performed processing platform trade study, researching against performance, scalability, size, weight, power, and interconnection requirements
-- Supported initial flight testing of hardware, applied modifications to design as necessary
-- Engineered a custom interface and mount for easy connection of communications and power adapters
-- Integrated tactical and commercial datalinks to provide mobile ad-hoc network connectivity
-
-Served as a Co-Chair of the Communications Technology Interest Group and Software Engineering Networks
-
-- Organized and participate in large symposiums and workshops, reviewing content and managing events
-- Fostered Open Technology Development and the use of Open Source software and tools
-
-__Raytheon Missile Systems – Operations Research__: *Systems Engineer* __2003-2005__
-
-__Systems Integration Plus, Inc.__: *Systems Engineer* __2001-2003__
-
-__ITT Technical Institute__: *Adjunct Instructor* __2001-2003__
-
-__Pilot2Pilot Incorporated__: *President* __2000-2001__
-
-__Marine Corps Community Services__: *IT Special Projects Manager* __1997-2000__
-
-__United States Air Force__: *Wideband/Satellite Radio Technician* __1990-1994__
+Systems Integration Plus (Systems Engineer), ITT Technical Institute (Adjunct Instructor), Pilot2Pilot Inc. (President), Marine Corps Community Services (IT Special Projects Manager), United States Air Force (Wideband/Satellite Radio Technician)
 
 ---
 
 ### Education
 
-__University of Maryland__, Adelphi, Maryland
-December 2008
+**University of Maryland** | Adelphi, Maryland | **December 2008**  
 Master of Software Engineering
 
-__University of Maryland__, Kadena AB, Okinawa,
-October 1999
+**University of Maryland** | Kadena AB, Okinawa | **October 1999**  
 Bachelor of Science in Computer Studies
 
-__University of Arkansas__, Camp Foster, Okinawa,
-September 1999
+**University of Arkansas** | Camp Foster, Okinawa | **September 1999**  
 Completed training, course work and requisite projects for mid-level management certification
 
-__Green Hills Software__, Tucson, AZ
-October 2003
+**Green Hills Software** | Tucson, AZ | **October 2003**  
 Completed training and certification for Integrity RTOS
 
-__Redhat__, San Francisco, CA
-May 2001
+**Redhat** | San Francisco, CA | **May 2001**  
 Completed RHCE training and certification
 
-__Wind River Systems__, Alameda, California
-September 2001
+**Wind River Systems** | Alameda, California | **September 2001**  
 Completed coursework covering VxWorks 5.4 and Tornado 2.0
 
 ---
@@ -224,6 +175,6 @@ Completed coursework covering VxWorks 5.4 and Tornado 2.0
 
 ### Links
 
-[Github](http://github.io/kitplummer), Source code
+[Github](https://github.com/kitplummer), Source code
 
 [LinkedIn](https://linkedin.com/in/kitplummer)
