@@ -170,11 +170,3 @@ Completed coursework covering VxWorks 5.4 and Tornado 2.0
 [OVMTB High School Mountain Bike Team](http://www.ovmtb.org), Founder and Board Member
 
 [National Interscholastic Cycling Association](http://nationalmtb.org), Level I Certified Coach
-
----
-
-### Links
-
-[Github](https://github.com/kitplummer), Source code
-
-[LinkedIn](https://linkedin.com/in/kitplummer)
