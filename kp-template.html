@@ -16,18 +16,71 @@ h3#experience ~ p {
   font-size: 104%;
   line-height: 24px;
 }
-h3#experience ~ p + ul {margin-left:20%; margin-bottom: 1em; list-style-type:initial; }
-h3#experience ~ p + ul li { margin-bottom: 1em; float:auto; width: 84%; }
+h3#experience ~ p + ul {
+  margin-left: 0;
+  margin-bottom: 1em; 
+  list-style: none;
+}
+h3#experience ~ p + ul li { 
+  margin-bottom: 1em; 
+  position: relative;
+  padding-left: 24px;
+  width: 100%;
+  float: none;
+}
+h3#experience ~ p + ul li:before {
+  content: "▸";
+  position: absolute;
+  left: 8px;
+  color: var(--bullet-color);
+  font-weight: bold;
+}
 </style>
 </head>
 
 <body class="">
+
+<button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
+    <span class="toggle-icon sun-icon">☀️</span>
+    <div class="toggle-slider"></div>
+    <span class="toggle-icon moon-icon">🌙</span>
+</button>
 
 <div class="container">
     <div class="resume">
         {{{resume}}}
     </div>
 </div>
+
+<script>
+// Theme Toggle Functionality
+function toggleTheme() {
+    const body = document.body;
+    const currentTheme = body.getAttribute('data-theme');
+    
+    if (currentTheme === 'dark') {
+        body.removeAttribute('data-theme');
+        localStorage.setItem('theme', 'light');
+    } else {
+        body.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+    }
+}
+
+// Load saved theme or default to light mode
+function loadTheme() {
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+        document.body.setAttribute('data-theme', 'dark');
+    }
+}
+
+// Apply theme on page load
+document.addEventListener('DOMContentLoaded', loadTheme);
+
+// Also apply immediately for faster loading
+loadTheme();
+</script>
 
 </body>
 </html>
