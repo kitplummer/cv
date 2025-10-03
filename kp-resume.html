@@ -1,486 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8" />
+<meta charset="utf-8">
+<title> | </title>
+<link href="http://netdna.bootstrapcdn.com/bootswatch/3.1.1/readable/bootstrap.min.css" rel="stylesheet">
 
-
-<title>Kit Plummer</title>
 <style type="text/css">
-/* Modern Resume CSS - Clean Professional Design with Dark Mode */
-
-/* CSS Variables for Light/Dark Theming */
-:root {
-  --bg-color: #ffffff;
-  --text-primary: #2c3e50;
-  --text-secondary: #475569;
-  --text-muted: #64748b;
-  --heading-primary: #1a202c;
-  --heading-secondary: #1e293b;
-  --heading-tertiary: #334155;
-  --border-color: #e2e8f0;
-  --contact-bg: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  --contact-text: #ffffff;
-  --link-color: #667eea;
-  --link-hover: #764ba2;
-  --bullet-color: #667eea;
-  --shadow-color: rgba(0, 0, 0, 0.07);
-  --toggle-bg: #374151;
-  --toggle-active: #3b82f6;
+#footer {
+  display: none;
 }
-
-[data-theme="dark"] {
-  --bg-color: #1a1a1a;
-  --text-primary: #e2e8f0;
-  --text-secondary: #cbd5e1;
-  --text-muted: #94a3b8;
-  --heading-primary: #f1f5f9;
-  --heading-secondary: #e2e8f0;
-  --heading-tertiary: #cbd5e1;
-  --border-color: #374151;
-  --contact-bg: linear-gradient(135deg, #4338ca 0%, #7c3aed 100%);
-  --contact-text: #ffffff;
-  --link-color: #818cf8;
-  --link-hover: #a78bfa;
-  --bullet-color: #818cf8;
-  --shadow-color: rgba(0, 0, 0, 0.3);
-  --toggle-bg: #6b7280;
-  --toggle-active: #60a5fa;
-}
-
-/* Reset and Base Styles */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
-  line-height: 1.6;
-  color: var(--text-primary);
-  background: var(--bg-color);
-  font-size: 15px;
-  transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-.container {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 40px 30px;
-}
-
-/* Typography */
-h1 {
-  font-size: 2.5em;
-  font-weight: 700;
-  color: var(--heading-primary);
-  margin-bottom: 8px;
-  letter-spacing: -0.5px;
-}
-
-h2 {
-  font-size: 1.3em;
-  font-weight: 400;
-  color: var(--text-muted);
-  margin-bottom: 20px;
-  letter-spacing: 0.5px;
-}
-
-h3 {
-  font-size: 1.4em;
-  font-weight: 600;
-  color: var(--heading-secondary);
-  margin-top: 35px;
-  margin-bottom: 20px;
-  padding-bottom: 8px;
-  border-bottom: 2px solid var(--border-color);
-  letter-spacing: -0.2px;
-}
-
-h3:first-of-type {
-  margin-top: 25px;
-}
-
-/* Contact Info Bar */
-blockquote {
-  background: var(--contact-bg);
-  border: none;
-  border-radius: 8px;
-  padding: 15px 20px;
-  margin-bottom: 25px;
-  font-size: 0.95em;
-  box-shadow: 0 4px 6px var(--shadow-color);
-}
-
-blockquote p {
-  margin: 0;
-  color: var(--contact-text);
-}
-
-blockquote a {
-  color: var(--contact-text);
-  text-decoration: none;
-  font-weight: 500;
-  transition: opacity 0.2s;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
-}
-
-blockquote a:hover {
-  opacity: 0.9;
-  border-bottom-color: var(--contact-text);
-}
-
-/* Horizontal Rule */
-hr {
-  border: none;
-  border-top: 1px solid var(--border-color);
-  margin: 30px 0;
-}
-
-/* Profile Section */
-p {
-  margin-bottom: 15px;
-  line-height: 1.7;
-  color: var(--text-secondary);
-}
-
-/* Skills Section */
-#skills + p strong,
-p strong:only-child {
-  font-weight: 600;
-  color: var(--heading-secondary);
-  font-size: 1.05em;
-  display: block;
-  margin-top: 20px;
-  margin-bottom: 12px;
-  padding-left: 0;
-}
-
-ul {
-  margin-left: 0;
-  margin-bottom: 15px;
-  list-style: none;
-}
-
-ul li {
-  position: relative;
-  padding-left: 24px;
-  margin-bottom: 10px;
-  line-height: 1.7;
-  color: var(--text-secondary);
-  transition: transform 0.2s;
-}
-
-ul li:hover {
-  transform: translateX(3px);
-}
-
-ul li:before {
-  content: "▸";
-  position: absolute;
-  left: 8px;
-  color: var(--bullet-color);
-  font-weight: bold;
-}
-
-ul li strong {
-  font-weight: 600;
-  color: var(--heading-tertiary);
-}
-
-/* Experience Section */
-#experience ~ p strong:first-child {
-  color: var(--heading-secondary);
-  font-size: 1.15em;
-  font-weight: 600;
-}
-
-#experience ~ p {
-  margin-top: 28px;
-  margin-bottom: 12px;
-}
-
-#experience ~ p em {
-  color: var(--link-color);
-  font-style: normal;
-  font-weight: 500;
-  padding: 0 8px;
-}
-
-#experience ~ p strong:last-child {
-  float: right;
-  color: var(--text-muted);
-  font-size: 0.95em;
-  font-weight: 500;
-}
-
-/* Links */
-a {
-  color: var(--link-color);
-  text-decoration: none;
-  transition: color 0.2s;
-}
-
-a:hover {
-  color: var(--link-hover);
-  text-decoration: underline;
-}
-
-/* Education Section */
-h3:last-of-type ~ p {
-  margin-top: 0;
-}
-
-/* Print Styles */
-@media print {
-  body {
-    font-size: 11pt;
-    line-height: 1.5;
-    color: #000;
-    background: white;
-  }
-  
-  .container {
-    max-width: 100%;
-    padding: 0;
-    margin: 0;
-  }
-  
-  h1 {
-    font-size: 24pt;
-    margin-bottom: 4pt;
-    page-break-after: avoid;
-  }
-  
-  h2 {
-    font-size: 12pt;
-    margin-bottom: 12pt;
-    page-break-after: avoid;
-  }
-  
-  h3 {
-    font-size: 14pt;
-    margin-top: 18pt;
-    margin-bottom: 10pt;
-    page-break-after: avoid;
-    border-bottom: 1pt solid #ccc;
-  }
-  
-  blockquote {
-    background: none;
-    border: 1pt solid #666;
-    padding: 8pt;
-    margin-bottom: 12pt;
-    page-break-inside: avoid;
-    box-shadow: none;
-  }
-  
-  blockquote p {
-    color: #000;
-  }
-  
-  blockquote a {
-    color: #000;
-    text-decoration: underline;
-    border: none;
-  }
-  
-  p {
-    margin-bottom: 8pt;
-    orphans: 3;
-    widows: 3;
-  }
-  
-  ul {
-    margin-bottom: 8pt;
-  }
-  
-  ul li {
-    margin-bottom: 4pt;
-    page-break-inside: avoid;
-  }
-  
-  ul li:before {
-    content: "•";
-    color: #000;
-  }
-  
-  ul li:hover {
-    transform: none;
-  }
-  
-  a {
-    color: #000;
-    text-decoration: underline;
-  }
-  
-  /* Keep experience entries together */
-  #experience ~ p {
-    page-break-before: auto;
-    page-break-after: avoid;
-  }
-  
-  #experience ~ p + p,
-  #experience ~ p + ul {
-    page-break-before: avoid;
-  }
-  
-  #experience ~ p strong:last-child {
-    float: right;
-  }
-  
-  #experience ~ p em {
-    color: #000;
-    font-weight: 600;
-  }
-  
-  /* Avoid breaking inside education entries */
-  h3:last-of-type ~ p {
-    page-break-inside: avoid;
-  }
-  
-  hr {
-    display: none;
-  }
-}
-
-/* Theme Toggle Styles */
-.theme-toggle {
-  position: fixed;
-  top: 20px;
-  right: 20px;
-  background: var(--toggle-bg);
-  border: none;
-  border-radius: 50px;
-  width: 60px;
-  height: 30px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 3px;
-  z-index: 1000;
-}
-
-.theme-toggle:hover {
-  background: var(--toggle-active);
-}
-
-.theme-toggle .toggle-slider {
-  width: 24px;
-  height: 24px;
-  background: #ffffff;
-  border-radius: 50%;
-  transition: transform 0.3s ease;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 12px;
-}
-
-[data-theme="dark"] .theme-toggle .toggle-slider {
-  transform: translateX(30px);
-}
-
-.theme-toggle .toggle-icon {
-  font-size: 14px;
-  opacity: 0.7;
-}
-
-.theme-toggle .sun-icon {
-  margin-left: 6px;
-}
-
-.theme-toggle .moon-icon {
-  margin-right: 6px;
-}
-
-/* Hide toggle when printing */
-@media print {
-  .theme-toggle {
-    display: none;
-  }
-}
-
-/* Responsive Design */
-@media screen and (max-width: 768px) {
-  .container {
-    padding: 20px 15px;
-  }
-  
-  h1 {
-    font-size: 2em;
-  }
-  
-  h2 {
-    font-size: 1.1em;
-  }
-  
-  h3 {
-    font-size: 1.3em;
-  }
-  
-  body {
-    font-size: 14px;
-  }
-  
-  blockquote {
-    padding: 12px 15px;
-  }
-  
-  #experience ~ p strong:last-child {
-    float: none;
-    display: block;
-    margin-top: 4px;
-  }
-}
-h3#experience ~ p {
-  margin-top: 1em;
-  padding: 0;
-  display: block;
-  font-size: 104%;
-  line-height: 24px;
-}
-h3#experience ~ p + ul {
-  margin-left: 0;
-  margin-bottom: 1em; 
-  list-style: none;
-}
-h3#experience ~ p + ul li { 
-  margin-bottom: 1em; 
-  position: relative;
-  padding-left: 24px;
+#footer + p {
   width: 100%;
-  float: none;
+  font-size: 11px;
 }
-h3#experience ~ p + ul li:before {
-  content: "▸";
-  position: absolute;
-  left: 8px;
-  color: var(--bullet-color);
-  font-weight: bold;
-}
+
 </style>
 </head>
-
-<body class="">
-
-<button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
-    <span class="toggle-icon sun-icon">☀️</span>
-    <div class="toggle-slider"></div>
-    <span class="toggle-icon moon-icon">🌙</span>
-</button>
-
-<div class="container">
-    <div class="resume">
+<body>
+    <div class="container">
         <h1>Kit Plummer</h1>
 
-<h2>Technology Architect &amp; Software Engineer</h2>
+<h2>Technology Executive &amp; Engineering Advisor</h2>
 
 <blockquote>
   <p><a href="kp-resume.pdf">Download PDF</a> |
-  <a href="mailto:kitplummer@gmail.com">kitplummer@gmail.com</a> |
+  <a href="kitplummer@gmail.com">kitplummer@gmail.com</a> |
   <a href="https://www.linkedin.com/in/kitplummer">LinkedIn</a> |
   <a href="https://github.com/kitplummer">GitHub</a> | +1 404 229 3233</p>
 </blockquote>
@@ -489,26 +33,26 @@ h3#experience ~ p + ul li:before {
 
 <h3>Profile</h3>
 
-<p>Technology executive who led Ditto from SBIR Phase I to $28M STRATFI award, delivering edge-computing solutions to defense and intelligence customers. Expert in software supply-chain security, DevSecOps transformation, and distributed systems/edge-first architecture. Proven record scaling federal technology teams, securing multi-million dollar contracts, and translating complex technical solutions into business outcomes. Current TS-SCI clearance.</p>
+<p>Technology executive and modernization advisor who drove $28M+ in federal technology transformations, specializing in data modernization, edge computing, and secure distributed systems. Led organizations through enterprise-scale DevSecOps transformations, data synchronization architectures, and cloud-to-edge data modernization initiatives for defense and intelligence agencies. Proven track record building high-performing teams, securing strategic funding, and translating complex communications and data infrastructure challenges into actionable business outcomes. Expert in zero-trust architectures, real-time data pipelines, and mission-critical system modernization. Current TS-SCI clearance.</p>
 
 <h3 id="skills">Skills</h3>
+
+<p><strong>EXECUTIVE &amp; ADVISORY CAPABILITIES</strong></p>
+
+<ul>
+<li><strong>Data Modernization Strategy:</strong> Cloud-to-edge data architecture, distributed systems transformation, real-time data pipelines, data synchronization at scale, legacy system modernization</li>
+<li><strong>Digital Transformation Leadership:</strong> Enterprise DevSecOps transformation, infrastructure modernization, organizational change management, technical debt reduction</li>
+<li><strong>Strategic Business Development:</strong> Multi-million dollar contract acquisition (SBIR/STTR, STRATFI awards), go-to-market strategy, defense/intelligence contracting, executive stakeholder engagement</li>
+<li><strong>Technology Leadership:</strong> Cross-functional team building, distributed workforce management, C-suite advisory, thought leadership, conference speaking</li>
+</ul>
 
 <p><strong>TECHNICAL EXPERTISE</strong></p>
 
 <ul>
-<li><strong>Software Development:</strong> Rust, Golang, JavaScript/TypeScript, Python, Java, Ruby, AI, Testing and Automation</li>
-<li><strong>Cloud &amp; Infrastructure:</strong> AWS, Azure Government Cloud, Kubernetes, Containers, Infrastructure-as-Code</li>
-<li><strong>DevSecOps &amp; Security:</strong> CI/CD Pipelines, GitOps, Software Supply-Chain Security, SBOM Generation, Vulnerability Assessment, Zero Trust Architecture</li>
-<li><strong>Edge Computing &amp; Distributed Systems:</strong> Peer-to-peer synchronization, Offline-first architectures, Mobile (iOS/Android), Embedded systems</li>
-</ul>
-
-<p><strong>LEADERSHIP &amp; BUSINESS</strong></p>
-
-<ul>
-<li><strong>Team Building:</strong> Cross-functional team management, distributed workforce leadership, talent development, remote team scaling</li>
-<li><strong>Federal Business Development:</strong> SBIR/STTR programs, TACFI/STRATFI awards, defense contracting, proposal writing</li>
-<li><strong>Strategic Planning:</strong> Go-to-market strategy, product roadmapping, innovation culture development, technology evangelism</li>
-<li><strong>Stakeholder Management:</strong> C-suite presentations, customer success, interdepartmental collaboration, conference speaking</li>
+<li><strong>Data &amp; Infrastructure:</strong> Distributed data systems, peer-to-peer synchronization, data integration pipelines, cloud platforms (AWS, Azure Government), Kubernetes, Infrastructure-as-Code</li>
+<li><strong>Security &amp; Compliance:</strong> Zero Trust Architecture, software supply-chain security, vulnerability assessment, SBOM generation, multi-level security systems</li>
+<li><strong>Modern Development:</strong> Rust, Golang, JavaScript/TypeScript, Python, Java, Ruby, AI/ML pipelines, edge computing, mobile platforms (iOS/Android)</li>
+<li><strong>DevSecOps &amp; Automation:</strong> CI/CD pipelines, GitOps, automated testing, continuous delivery, infrastructure automation</li>
 </ul>
 
 <hr />
@@ -517,91 +61,74 @@ h3#experience ~ p + ul li:before {
 
 <p><strong>Ditto</strong> | <em>Chief Engineer, Federal</em> | <strong>2023-present</strong></p>
 
-<p>Development and delivery of Ditto&#8217;s platform (cloud-to-edge) technology for federal customers.</p>
+<p>Led data modernization strategy and execution for federal defense and intelligence customers, transforming legacy data architectures into cloud-to-edge distributed systems.</p>
 
 <ul>
-<li>Received Defense Innovation Unit Success Memo for developing the Common Operational Datasync capability, enabling dynamic integration of multiple platform providers to swarm with different autonomy packages, reducing operational costs and eliminating a priori configuration</li>
-<li>Secured a $28M STRATFI (Strategic Funding Increase) award to accelerate the delivery of Ditto technologies in support of various National Security objectives</li>
-<li>Delivered Ditto&#8217;s TAK Edge Sync plugin to TAK.gov, providing peer-to-peer data synchronization to special operators around the world and enabling real-time data-sharing between partners</li>
-<li>Built the Federal unit&#8217;s go-to-market strategy covering cloud operations, edge integration, and mobile deployments - highlighting Ditto&#8217;s funding raises, delivery successes, and team growth</li>
-<li>Supported customer implementations across multiple platforms and technologies including iOS, Android, Rust, and JavaScript to ensure seamless integration and deployment</li>
-<li>Managed a cross-functional team of program and project managers, software engineers, customer success engineers, and business developers to deliver integrated solutions for federal clients</li>
-<li>Filed patents for innovative applications of Ditto technology in solving applied AI challenges, specifically addressing anomaly detection and the redistribution of retrained models</li>
-<li>Represented Ditto&#8217;s Public Sector team at many defense and intelligence exercises, test events and conferences</li>
+<li>Architected Common Operational Datasync capability (recognized by Defense Innovation Unit Success Memo), modernizing data synchronization across heterogeneous platforms, eliminating legacy configuration requirements, and reducing operational costs through real-time peer-to-peer data flows</li>
+<li>Secured $28M STRATFI (Strategic Funding Increase) award by demonstrating strategic value of data modernization initiatives supporting National Security objectives</li>
+<li>Delivered TAK Edge Sync plugin to TAK.gov, modernizing tactical data sharing infrastructure for special operators globally through resilient offline-first synchronization architecture</li>
+<li>Developed go-to-market strategy for federal data modernization initiatives spanning cloud operations, edge integration, and mobile deployments—driving funding raises and organizational growth</li>
+<li>Led cross-functional teams (program managers, engineers, customer success, business development) through complex data infrastructure transformations across iOS, Android, Rust, and JavaScript platforms</li>
+<li>Drove innovation in AI-enabled data pipelines with patent filings for anomaly detection and distributed model retraining, modernizing legacy machine learning operations</li>
+<li>Advised defense and intelligence leadership at operational exercises, test events, and strategic conferences on data modernization approaches and distributed architecture benefits</li>
 </ul>
 
 <p><strong>Microsoft Federal</strong> | <em>Director, Modern Software Engineering and DevSecOps</em> | <strong>2022-2023</strong></p>
 
-<p>Created and executed Microsoft&#8217;s go-to-market DevSecOps strategy in support of Azure Government Cloud capabilities by focusing on engineers, developers and researchers within the federal partner ecosystem.</p>
+<p>Advised federal agencies on cloud data modernization and DevSecOps transformation strategies, creating and executing Microsoft&#8217;s Azure Government Cloud go-to-market approach for engineers, developers, and researchers within the federal partner ecosystem. Guided organizations through secure cloud data migration, CI/CD pipeline modernization, and infrastructure-as-code adoption.</p>
 
 <p><strong>Georgia Tech Research Institute (GTRI)</strong> | <em>Principal Research Engineer</em> | <strong>2017-2022</strong></p>
 
 <ul>
-<li>Chief Engineer for Air National Guard/Air Force Reserve Test Center&#8217;s Corsair Ranch software factory and Platform One liaison, supporting F-16, A-10, HH-60 platforms</li>
-<li>Developed software supply-chain risk analysis tooling (lowendinsight.dev) for large-scale library vulnerability assessment</li>
-<li>Chief Engineer for Delta&#8217;s new In-Flight Entertainment system on Airbus A330-900 fleet, managing cross-organizational engineering teams</li>
-<li>Established DevUP organizational improvement function and taught <em>DevSecOps and Military Applications</em> at GT Professional Education</li>
-<li>Led business development, white papers, and conference speaking to advance software factory and DevSecOps adoption</li>
+<li>Chief Engineer for Air National Guard/Air Force Reserve Test Center&#8217;s Corsair Ranch software factory, modernizing legacy military aviation data pipelines and development infrastructure for F-16, A-10, HH-60 platforms through Platform One integration</li>
+<li>Developed software supply-chain risk analysis tooling (lowendinsight.dev) for large-scale vulnerability assessment, modernizing security evaluation processes across distributed development teams</li>
+<li>Chief Engineer for Delta Airlines&#8217; In-Flight Entertainment system modernization on Airbus A330-900 fleet, leading cross-organizational transformation of passenger data and content delivery infrastructure</li>
+<li>Established DevUP organizational improvement function, advising leadership on DevSecOps transformation strategies; taught <em>DevSecOps and Military Applications</em> at GT Professional Education</li>
+<li>Led strategic business development, published thought leadership, and advised executive audiences at industry conferences on software factory and data infrastructure modernization</li>
 </ul>
 
 <p><strong>Ion Channel</strong> | <em>Founder/CTO</em> | <strong>2015-2017</strong></p>
 
-<p>Business development and award of multiple $1M+ contracts with various intelligence community agencies, addressing software supply-chain requirements and source-code cybersecurity.</p>
+<p>Founded and led cybersecurity startup, securing $1M+ in intelligence community contracts through innovative data-driven approach to software supply-chain security and vulnerability assessment.</p>
 
 <ul>
-<li>Established and staffed engineering team in Portland OR focusing on &#8216;product&#8217;-oriented development</li>
-<li>Coordinated initial feature requirements from customer/system/process consulting and analysis</li>
-<li>Led engineering team through dev tools, process and methods selection</li>
-<li>Rolled out continuous delivery infrastructure and processes to automate delivery of source and artifacts to customers</li>
-</ul>
-
-<p>Design and development of initial software supply-chain product/service offerings</p>
-
-<ul>
-<li>Microservices-based architecture targeting AWS infrastructure with automated test and delivery</li>
-<li>Services written in Ruby and Golang deployed with Docker containers to AWS ECR/ECS</li>
-<li>Integration with upstream data providers (NIST NVD, language ecosystems, GitHub) and ingest to local datastores</li>
-<li>API, CLI, and UI development to support governance, risk and compliance operations in multiple operational targets</li>
+<li>Built and scaled engineering team focused on product-oriented development, establishing organizational processes and technical strategy</li>
+<li>Designed microservices-based data aggregation platform on AWS infrastructure, modernizing how intelligence agencies assess software supply-chain risk</li>
+<li>Architected data integration pipelines connecting disparate sources (NIST NVD, language ecosystems, GitHub) into unified data warehouse for real-time vulnerability intelligence</li>
+<li>Developed API, CLI, and UI platforms enabling governance, risk, and compliance teams to modernize security operations through data-driven decision-making</li>
+<li>Implemented continuous delivery infrastructure automating data pipeline updates and artifact delivery to operational environments</li>
 </ul>
 
 <p><strong>AirGap / RadiantBlue Technologies</strong> | <em>Chief Engineer</em> | <strong>2012-2015</strong></p>
 
-<p>Consulted organizations on the &#8220;modern software engineering&#8221; enterprise</p>
+<p>Advised defense and intelligence organizations on enterprise modernization, infrastructure transformation, and data architecture evolution.</p>
 
 <ul>
-<li>Communicating the need for enterprises to accommodate a flexible culture, to accommodate technology change, preventing debt and allowing for the right tool to be applied to the job at hand</li>
-<li>Analyzing existing processes and documenting infrastructure and automation opportunities</li>
-<li>Training on infrastructure-as-code tools (i.e., Puppet, Chef, Ansible) and cloud and container tools (Openstack and Docker)</li>
+<li>Consulted C-level executives on organizational transformation strategies to accommodate technology change, prevent technical debt, and enable data-driven decision-making</li>
+<li>Analyzed legacy processes and infrastructure, identifying modernization opportunities and automation strategies</li>
+<li>Led technical training and advisory on infrastructure-as-code (Puppet, Chef, Ansible) and cloud/container platforms (OpenStack, Docker)</li>
+<li>Served as board member at The Codice Foundation, advancing open source adoption in defense systems</li>
+<li>Architected Distributed Data Framework deployments, modernizing large-scale geospatial intelligence data infrastructure through automated provisioning on AWS and private cloud</li>
 </ul>
 
-<p>Developed open source alternative solutions for defense and intelligence systems, to enable rapid and emergent innovation opportunities</p>
+<p>Led development of workflow automation platform modernizing software delivery for intelligence agencies:</p>
 
 <ul>
-<li>Utilizing public and private cloud technologies (e.g. Amazon Web Services(AWS): EC2, S3/Glacier, Route53, RDS, etc.; Heroku PaaS; OpenShift) as well as emerging technologies such as NoSQL, map-reduce, and dynamic software frameworks</li>
-<li>Consulting on continuous integration, continuous delivery (CI/CD) and infrastucture-as-code (IaC) practices</li>
-<li>Supporting open source operations, serving as a board member at <a href="http://www.codice.org">The Codice Foundation</a></li>
-<li>Working with the <a href="https://tools.codice.org/wiki/display/DDF/DDF+Home">Distributed Data Framework</a> project, providing Puppet and AWS support to support dynamic provision and auto-configuration of large-scale deployments</li>
-</ul>
-
-<p>Led development and operation of a workflow automation engine for delivery of software components</p>
-
-<ul>
-<li>Architected and implemented private cloud infrastructure based on Openstack, Puppet and Docker, and augmented by AWS compute and storage resources</li>
-<li>Designed a workflow engine for distributed task operations using Mongo, Grails, PostgreSQL, and Activiti</li>
-<li>Developed Ruby microservices connecting external data sources (e.g. NIST vulnerability database, VirusTotal, fossology)</li>
-<li>Worked with agencies to capture security process/audit, transport, and component manifesting requirements</li>
-<li>Integrating Amazon Web Services for elastic test agents, and disaster recovery flows for system images and software artifacts</li>
+<li>Designed and implemented hybrid cloud infrastructure (OpenStack, Docker, AWS) for elastic compute and resilient data storage</li>
+<li>Architected workflow engine for distributed operations using modern data stores (MongoDB, PostgreSQL) and process orchestration (Activiti, Grails)</li>
+<li>Built data integration microservices (Ruby) aggregating security intelligence from NIST, VirusTotal, and other sources</li>
+<li>Modernized security audit and compliance workflows through automated component manifesting and artifact delivery pipelines</li>
 </ul>
 
 <p><strong>MaestroDev</strong> | <em>VP, Product Engineering</em> | <strong>2011-2012</strong></p>
 
-<p>Led the design and development of a DevOps tool suite to support emerging enterprise markets with software development-through-operations workflow automation</p>
+<p>Led product engineering strategy and execution for DevOps automation platform, modernizing enterprise software delivery workflows and data pipelines.</p>
 
 <ul>
-<li>Managed a globally distributed staff of software engineers, designers, technical writers, and administrators</li>
-<li>Communicated with executive stakeholders regarding strategy, execution and operational needs</li>
-<li>Worked with customers and test sites to optimize the delivery, monitoring and operation of system components</li>
-<li>Built a Ruote-based workflow engine that integrated best-of-breed tools in the SCM, CI, deployment, provisioning and configuration management arena</li>
+<li>Managed globally distributed engineering organization (software engineers, designers, technical writers, administrators)</li>
+<li>Advised executive stakeholders on product strategy, market execution, and operational transformation roadmaps</li>
+<li>Partnered with enterprise customers to optimize delivery pipelines, monitoring infrastructure, and operational data flows</li>
+<li>Architected workflow engine integrating SCM, CI, deployment, and configuration management tools—modernizing development-to-operations data exchange</li>
 </ul>
 
 <p><strong>Dozer Software LLC</strong> | <em>Principal</em> | <strong>2000-2017</strong></p>
@@ -612,42 +139,32 @@ h3#experience ~ p + ul li:before {
 
 <p><strong>Accenture National Security Services</strong> | <em>Technical Architect</em> | <strong>2007-2010</strong></p>
 
-<p>Developed a semantic wiki/text engineering platform for document/intelligence inference for US ARMY CDI</p>
+<p>Architected data modernization solutions for defense intelligence agencies, transforming legacy document processing and data discovery systems.</p>
 
 <ul>
-<li>Processing document similarity and entity extraction algorithms to create “linkable” relationships</li>
-<li>Integrating open source projects Grails, GATE, UIMA, Tika, Jena to minimize costs and license constraints</li>
-<li>Architected for component distribution and high-scalability using publish-subscribe/XML/RDF interconnects</li>
-</ul>
-
-<p>Architected and designed a dynamic data discovery and visualization service platform for USAF (SAF)</p>
-
-<ul>
-<li>Utilizing off-the-shelf software frameworks (Grails and OSGi) for maximum developmental performance</li>
-<li>Implemented multiple search algorithms to identify location/geo-based and other information</li>
-<li>Following Scrum agile software engineering methodology with geo-distributed team</li>
-</ul>
-
-<p>Established and architected an open source contextual collaboration suite for the USAF</p>
-
-<ul>
-<li>Developed early prototype using Java/OSGi frameworks and HTTP interfaces</li>
-<li>Ported design to Ruby and Rails, RESTful, and Service-Oriented Architecture</li>
-<li>Published whitepapers and spoke at various Open Source and defense conferences and symposiums</li>
+<li>Designed semantic intelligence platform for US ARMY CDI, modernizing document analysis through entity extraction algorithms and knowledge graph relationships (RDF/XML interconnects)</li>
+<li>Integrated distributed data processing frameworks (Grails, GATE, UIMA, Tika, Jena) into scalable publish-subscribe architecture for high-throughput intelligence workflows</li>
+<li>Architected dynamic data discovery and visualization platform for USAF (SAF), implementing advanced search algorithms for geospatial and multi-domain intelligence using modern frameworks (Grails, OSGi)</li>
+<li>Established open source contextual collaboration suite for USAF, evolving architecture from Java/OSGi to Ruby/Rails RESTful services—modernizing inter-agency data sharing</li>
+<li>Published thought leadership and advised defense audiences at conferences on open source adoption and data architecture modernization</li>
 </ul>
 
 <p><strong>Raytheon Missile Systems</strong> | <em>Principal Software Engineer / Systems Engineer</em> | <strong>2003-2007</strong></p>
 
 <ul>
-<li>Developed tactically-aware service integration platform based on Enterprise Service Bus architecture</li>
-<li>Lead engineer for unmanned system mission computer/processing platform development and flight testing</li>
-<li>Created SDK (API, documentation, tooling) and multi-level security mechanisms for service developers</li>
-<li>Co-chaired Communications Technology Interest Group, fostering open source adoption in defense systems</li>
+<li>Architected tactically-aware service integration platform modernizing data exchange across defense systems using Enterprise Service Bus architecture</li>
+<li>Lead engineer for unmanned system mission computer platform, integrating real-time data processing and telemetry pipelines for flight operations</li>
+<li>Developed SDK enabling secure multi-level data access, providing APIs and tooling for distributed service development</li>
+<li>Co-chaired Communications Technology Interest Group, advising leadership on open source adoption and data interoperability standards</li>
 </ul>
 
-<p><strong>Early Career</strong> | <em>Systems Engineer, Instructor, IT Manager</em> | <strong>1990-2003</strong></p>
+<p><strong>United States Air Force</strong> | <em>Wideband/Satellite Radio Technician</em> | <strong>1990-1996</strong></p>
 
-<p>Systems Integration Plus (Systems Engineer), ITT Technical Institute (Adjunct Instructor), Pilot2Pilot Inc. (President), Marine Corps Community Services (IT Special Projects Manager), United States Air Force (Wideband/Satellite Radio Technician)</p>
+<p>Maintained and operated fixed and tactical communications and networking systems, ensuring reliable data and voice transmission for global military operations.</p>
+
+<p><strong>Early Career</strong> | <em>Systems Engineer, Instructor, IT Manager</em> | <strong>1996-2003</strong></p>
+
+<p>Systems Integration Plus (Systems Engineer), ITT Technical Institute (Adjunct Instructor), Pilot2Pilot Inc. (President), Marine Corps Community Services (IT Special Projects Manager)</p>
 
 <hr />
 
@@ -678,38 +195,7 @@ Completed coursework covering VxWorks 5.4 and Tornado 2.0</p>
 <p><a href="http://www.ovmtb.org">OVMTB High School Mountain Bike Team</a>, Founder and Board Member</p>
 
 <p><a href="http://nationalmtb.org">National Interscholastic Cycling Association</a>, Level I Certified Coach</p>
+
     </div>
-</div>
-
-<script>
-// Theme Toggle Functionality
-function toggleTheme() {
-    const body = document.body;
-    const currentTheme = body.getAttribute('data-theme');
-    
-    if (currentTheme === 'dark') {
-        body.removeAttribute('data-theme');
-        localStorage.setItem('theme', 'light');
-    } else {
-        body.setAttribute('data-theme', 'dark');
-        localStorage.setItem('theme', 'dark');
-    }
-}
-
-// Load saved theme or default to light mode
-function loadTheme() {
-    const savedTheme = localStorage.getItem('theme');
-    if (savedTheme === 'dark') {
-        document.body.setAttribute('data-theme', 'dark');
-    }
-}
-
-// Apply theme on page load
-document.addEventListener('DOMContentLoaded', loadTheme);
-
-// Also apply immediately for faster loading
-loadTheme();
-</script>
-
 </body>
 </html>
